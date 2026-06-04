@@ -1,0 +1,2501 @@
+EncuestaID,SaborPreferido,PresentacionPreferida
+1,Dulce,Familiar
+2,Caramelo,Familiar
+3,Picante Chapín,Familiar
+4,Limón,Familiar
+5,Queso,Para Compartir Entre 2 Personas
+6,Jalapeño,Para Compartir Entre 2 Personas
+7,Dulce,Individual
+8,Chocolate,Para Compartir Entre 2 Personas
+9,Dulce,Familiar
+10,Barbacoa,Para Compartir Entre 2 Personas
+11,Queso,Individual
+12,Limón,Tamaño Fiesta O Reunión
+13,Queso,Tamaño Fiesta O Reunión
+14,Queso,Individual
+15,Jalapeño,Individual
+16,Barbacoa,Tamaño Fiesta O Reunión
+17,Limón,Para Compartir Entre 2 Personas
+18,Barbacoa,Individual
+19,Picante Chapín,Para Compartir Entre 2 Personas
+20,Queso,Familiar
+21,Barbacoa,Tamaño Fiesta O Reunión
+22,Barbacoa,Familiar
+23,Caramelo,Familiar
+24,Queso,Familiar
+25,Limón,Familiar
+26,Picante Chapín,Para Compartir Entre 2 Personas
+27,Chocolate,Familiar
+28,Salado Tradicional,Individual
+29,Barbacoa,Familiar
+30,Dulce,Familiar
+31,Picante Chapín,Tamaño Fiesta O Reunión
+32,Limón,Para Compartir Entre 2 Personas
+33,Jalapeño,Para Compartir Entre 2 Personas
+34,Barbacoa,Familiar
+35,Picante Chapín,Familiar
+36,Jalapeño,Para Compartir Entre 2 Personas
+37,No Indicado,Familiar
+38,Jalapeño,Familiar
+39,Limón,Individual
+40,Limón,Individual
+41,Limón,Para Compartir Entre 2 Personas
+42,Queso,Familiar
+43,Salado Tradicional,Individual
+44,Caramelo,Familiar
+45,Queso,Familiar
+46,Picante Chapín,Para Compartir Entre 2 Personas
+47,Limón,Individual
+48,Queso,Individual
+49,Queso,Familiar
+50,Dulce,Familiar
+51,Picante Chapín,Para Compartir Entre 2 Personas
+52,Salado Tradicional,Tamaño Fiesta O Reunión
+53,Queso,Tamaño Fiesta O Reunión
+54,Queso,Individual
+55,Queso,Familiar
+56,Caramelo,Familiar
+57,Queso,Para Compartir Entre 2 Personas
+58,Picante Chapín,Para Compartir Entre 2 Personas
+59,Jalapeño,Familiar
+60,Picante Chapín,Familiar
+61,Picante Chapín,Para Compartir Entre 2 Personas
+62,Barbacoa,Individual
+63,Picante Chapín,Para Compartir Entre 2 Personas
+64,Barbacoa,Individual
+65,Salado Tradicional,Tamaño Fiesta O Reunión
+66,Limón,Individual
+67,Salado Tradicional,Familiar
+68,Caramelo,Familiar
+69,Limón,Tamaño Fiesta O Reunión
+70,Jalapeño,Familiar
+71,Limón,Familiar
+72,Chocolate,Familiar
+73,Limón,Para Compartir Entre 2 Personas
+74,Salado Tradicional,Tamaño Fiesta O Reunión
+75,Caramelo,Individual
+76,Chocolate,Individual
+77,Caramelo,Individual
+78,Picante Chapín,Individual
+79,Picante Chapín,Individual
+80,Salado Tradicional,Para Compartir Entre 2 Personas
+81,Caramelo,Individual
+82,Jalapeño,Para Compartir Entre 2 Personas
+83,Limón,Tamaño Fiesta O Reunión
+84,Barbacoa,Familiar
+85,Picante Chapín,Tamaño Fiesta O Reunión
+86,Picante Chapín,Tamaño Fiesta O Reunión
+87,Queso,Familiar
+88,Jalapeño,Tamaño Fiesta O Reunión
+89,Limón,Tamaño Fiesta O Reunión
+90,Queso,Familiar
+91,Limón,Tamaño Fiesta O Reunión
+92,Queso,Tamaño Fiesta O Reunión
+93,Jalapeño,Familiar
+94,Chocolate,Individual
+95,Limón,Individual
+96,Jalapeño,Para Compartir Entre 2 Personas
+97,Picante Chapín,Tamaño Fiesta O Reunión
+98,Limón,Individual
+99,Picante Chapín,Tamaño Fiesta O Reunión
+100,Barbacoa,Individual
+101,Limón,Individual
+102,Dulce,Individual
+103,No Indicado,Individual
+104,Picante Chapín,Tamaño Fiesta O Reunión
+105,Limón,Familiar
+106,Barbacoa,Para Compartir Entre 2 Personas
+107,Queso,Familiar
+108,Barbacoa,Individual
+109,Queso,Para Compartir Entre 2 Personas
+110,Barbacoa,Familiar
+111,Barbacoa,Tamaño Fiesta O Reunión
+112,Salado Tradicional,Tamaño Fiesta O Reunión
+113,Queso,Tamaño Fiesta O Reunión
+114,Salado Tradicional,Para Compartir Entre 2 Personas
+115,Chocolate,Tamaño Fiesta O Reunión
+116,Dulce,Individual
+117,Picante Chapín,Individual
+118,Barbacoa,Tamaño Fiesta O Reunión
+119,Queso,Familiar
+120,Jalapeño,Individual
+121,Salado Tradicional,Tamaño Fiesta O Reunión
+122,Salado Tradicional,Para Compartir Entre 2 Personas
+123,Chocolate,Individual
+124,Queso,Familiar
+125,Queso,Familiar
+126,Chocolate,Familiar
+127,Salado Tradicional,Para Compartir Entre 2 Personas
+128,Caramelo,Tamaño Fiesta O Reunión
+129,Limón,Tamaño Fiesta O Reunión
+130,Limón,Individual
+131,Picante Chapín,Individual
+132,Queso,Individual
+133,Caramelo,Familiar
+134,Jalapeño,Individual
+135,Salado Tradicional,Para Compartir Entre 2 Personas
+136,Salado Tradicional,Individual
+137,Queso,Familiar
+138,Limón,Tamaño Fiesta O Reunión
+139,Jalapeño,Para Compartir Entre 2 Personas
+140,Jalapeño,Familiar
+141,Queso,Individual
+142,Queso,Familiar
+143,Barbacoa,Para Compartir Entre 2 Personas
+144,Salado Tradicional,Individual
+145,Picante Chapín,Para Compartir Entre 2 Personas
+146,Caramelo,Familiar
+147,Barbacoa,Familiar
+148,Jalapeño,Para Compartir Entre 2 Personas
+149,Salado Tradicional,Tamaño Fiesta O Reunión
+150,Picante Chapín,Para Compartir Entre 2 Personas
+151,Limón,Familiar
+152,Jalapeño,Tamaño Fiesta O Reunión
+153,Dulce,Individual
+154,Queso,Individual
+155,Jalapeño,Individual
+156,Queso,Para Compartir Entre 2 Personas
+157,Picante Chapín,Familiar
+158,Jalapeño,Individual
+159,Queso,Individual
+160,Barbacoa,Para Compartir Entre 2 Personas
+161,Picante Chapín,Individual
+162,Barbacoa,Para Compartir Entre 2 Personas
+163,Barbacoa,Tamaño Fiesta O Reunión
+164,Queso,Tamaño Fiesta O Reunión
+165,Dulce,Familiar
+166,Picante Chapín,Tamaño Fiesta O Reunión
+167,Dulce,Individual
+168,Barbacoa,Individual
+169,Limón,Individual
+170,Queso,Individual
+171,Picante Chapín,Para Compartir Entre 2 Personas
+172,Salado Tradicional,Para Compartir Entre 2 Personas
+173,Jalapeño,Individual
+174,Caramelo,Individual
+175,Jalapeño,Para Compartir Entre 2 Personas
+176,Picante Chapín,Para Compartir Entre 2 Personas
+177,Jalapeño,Familiar
+178,Barbacoa,Para Compartir Entre 2 Personas
+179,Barbacoa,Individual
+180,Dulce,Para Compartir Entre 2 Personas
+181,Barbacoa,Familiar
+182,Picante Chapín,Para Compartir Entre 2 Personas
+183,Barbacoa,Familiar
+184,Queso,Familiar
+185,Limón,Familiar
+186,Picante Chapín,Para Compartir Entre 2 Personas
+187,Jalapeño,Familiar
+188,Caramelo,Individual
+189,Barbacoa,Tamaño Fiesta O Reunión
+190,Queso,Tamaño Fiesta O Reunión
+191,Salado Tradicional,Familiar
+192,Caramelo,Para Compartir Entre 2 Personas
+193,Barbacoa,Tamaño Fiesta O Reunión
+194,Barbacoa,Familiar
+195,Limón,Familiar
+196,Chocolate,Familiar
+197,Chocolate,Familiar
+198,Limón,Tamaño Fiesta O Reunión
+199,Queso,Para Compartir Entre 2 Personas
+200,Barbacoa,Familiar
+201,Barbacoa,Individual
+202,Queso,Para Compartir Entre 2 Personas
+203,Queso,Familiar
+204,Limón,Individual
+205,Jalapeño,Para Compartir Entre 2 Personas
+206,Queso,Familiar
+207,Chocolate,Familiar
+208,Barbacoa,Para Compartir Entre 2 Personas
+209,Barbacoa,Para Compartir Entre 2 Personas
+210,Queso,Para Compartir Entre 2 Personas
+211,Queso,Individual
+212,Chocolate,Individual
+213,Jalapeño,Para Compartir Entre 2 Personas
+214,Limón,Familiar
+215,Salado Tradicional,Familiar
+216,Limón,Individual
+217,Jalapeño,Para Compartir Entre 2 Personas
+218,Barbacoa,Para Compartir Entre 2 Personas
+219,Limón,Para Compartir Entre 2 Personas
+220,Queso,Familiar
+221,Limón,Familiar
+222,Picante Chapín,Familiar
+223,Barbacoa,Individual
+224,Picante Chapín,Tamaño Fiesta O Reunión
+225,Picante Chapín,Individual
+226,Salado Tradicional,Individual
+227,Salado Tradicional,Familiar
+228,Jalapeño,Tamaño Fiesta O Reunión
+229,Barbacoa,Tamaño Fiesta O Reunión
+230,Chocolate,Tamaño Fiesta O Reunión
+231,Picante Chapín,Individual
+232,Limón,Familiar
+233,Queso,Para Compartir Entre 2 Personas
+234,Jalapeño,Familiar
+235,Limón,Tamaño Fiesta O Reunión
+236,Picante Chapín,Familiar
+237,Dulce,Individual
+238,Jalapeño,Individual
+239,Picante Chapín,Familiar
+240,Queso,Individual
+241,Salado Tradicional,Familiar
+242,Queso,Familiar
+243,Picante Chapín,Familiar
+244,Jalapeño,Para Compartir Entre 2 Personas
+245,Limón,Para Compartir Entre 2 Personas
+246,Jalapeño,Familiar
+247,Barbacoa,Familiar
+248,Jalapeño,Para Compartir Entre 2 Personas
+249,Chocolate,Para Compartir Entre 2 Personas
+250,Limón,Familiar
+251,Picante Chapín,Individual
+252,Dulce,Tamaño Fiesta O Reunión
+253,Jalapeño,Familiar
+254,Caramelo,Individual
+255,Queso,Tamaño Fiesta O Reunión
+256,Queso,Individual
+257,Limón,Para Compartir Entre 2 Personas
+258,Queso,Familiar
+259,Limón,Individual
+260,Barbacoa,Familiar
+261,Chocolate,Individual
+262,Chocolate,Para Compartir Entre 2 Personas
+263,Limón,Para Compartir Entre 2 Personas
+264,Chocolate,Tamaño Fiesta O Reunión
+265,Chocolate,Familiar
+266,Limón,Tamaño Fiesta O Reunión
+267,Dulce,Familiar
+268,Chocolate,Para Compartir Entre 2 Personas
+269,Barbacoa,Para Compartir Entre 2 Personas
+270,Picante Chapín,Tamaño Fiesta O Reunión
+271,Queso,Tamaño Fiesta O Reunión
+272,Salado Tradicional,Familiar
+273,Chocolate,Para Compartir Entre 2 Personas
+274,Queso,Para Compartir Entre 2 Personas
+275,Barbacoa,Familiar
+276,Picante Chapín,Individual
+277,Barbacoa,Para Compartir Entre 2 Personas
+278,Queso,Para Compartir Entre 2 Personas
+279,Salado Tradicional,Individual
+280,Dulce,Para Compartir Entre 2 Personas
+281,Picante Chapín,Tamaño Fiesta O Reunión
+282,Queso,Tamaño Fiesta O Reunión
+283,Caramelo,Para Compartir Entre 2 Personas
+284,Barbacoa,Familiar
+285,No Indicado,Individual
+286,Chocolate,Para Compartir Entre 2 Personas
+287,Salado Tradicional,Para Compartir Entre 2 Personas
+288,Jalapeño,Individual
+289,Chocolate,Familiar
+290,Chocolate,Individual
+291,No Indicado,Familiar
+1595,Barbacoa,Familiar
+293,Chocolate,Familiar
+294,Dulce,Individual
+295,Barbacoa,Para Compartir Entre 2 Personas
+296,Dulce,Familiar
+297,Picante Chapín,Para Compartir Entre 2 Personas
+298,Picante Chapín,Tamaño Fiesta O Reunión
+299,Jalapeño,Tamaño Fiesta O Reunión
+300,Limón,Individual
+301,Barbacoa,Individual
+302,Dulce,Para Compartir Entre 2 Personas
+303,Queso,Individual
+304,Jalapeño,Individual
+305,Limón,Individual
+306,Picante Chapín,Para Compartir Entre 2 Personas
+307,Picante Chapín,Familiar
+308,Picante Chapín,Para Compartir Entre 2 Personas
+309,Dulce,Familiar
+310,Dulce,Individual
+311,Queso,Tamaño Fiesta O Reunión
+312,Barbacoa,Individual
+313,Barbacoa,Para Compartir Entre 2 Personas
+314,Picante Chapín,Familiar
+315,Picante Chapín,Tamaño Fiesta O Reunión
+316,Picante Chapín,Para Compartir Entre 2 Personas
+317,Salado Tradicional,Para Compartir Entre 2 Personas
+318,Queso,Para Compartir Entre 2 Personas
+319,Chocolate,Individual
+320,Barbacoa,Familiar
+321,Limón,Para Compartir Entre 2 Personas
+322,Picante Chapín,Tamaño Fiesta O Reunión
+323,Salado Tradicional,Para Compartir Entre 2 Personas
+324,Salado Tradicional,Individual
+325,Jalapeño,Para Compartir Entre 2 Personas
+326,Queso,Para Compartir Entre 2 Personas
+327,Caramelo,Tamaño Fiesta O Reunión
+328,Queso,Para Compartir Entre 2 Personas
+329,Picante Chapín,Familiar
+330,Jalapeño,Para Compartir Entre 2 Personas
+331,Salado Tradicional,Tamaño Fiesta O Reunión
+332,Barbacoa,Individual
+333,Jalapeño,Tamaño Fiesta O Reunión
+334,Dulce,Familiar
+335,Queso,Para Compartir Entre 2 Personas
+336,Barbacoa,Individual
+337,Picante Chapín,Para Compartir Entre 2 Personas
+338,Queso,Familiar
+339,Jalapeño,Familiar
+340,Barbacoa,Tamaño Fiesta O Reunión
+341,Picante Chapín,Individual
+342,Picante Chapín,Individual
+343,Jalapeño,Familiar
+344,Dulce,Familiar
+345,Jalapeño,Para Compartir Entre 2 Personas
+346,Barbacoa,Individual
+347,Picante Chapín,Individual
+348,Queso,Para Compartir Entre 2 Personas
+1960,Jalapeño,Tamaño Fiesta O Reunión
+350,Barbacoa,Familiar
+351,Limón,Familiar
+352,Limón,Familiar
+353,Jalapeño,Para Compartir Entre 2 Personas
+354,Barbacoa,Para Compartir Entre 2 Personas
+355,Limón,Tamaño Fiesta O Reunión
+356,Chocolate,Tamaño Fiesta O Reunión
+357,Queso,Para Compartir Entre 2 Personas
+358,Jalapeño,Individual
+359,Queso,Familiar
+360,Dulce,Para Compartir Entre 2 Personas
+361,Queso,Para Compartir Entre 2 Personas
+362,Picante Chapín,Individual
+363,Salado Tradicional,Familiar
+364,Jalapeño,Individual
+365,Salado Tradicional,Tamaño Fiesta O Reunión
+366,Queso,Familiar
+367,Jalapeño,Tamaño Fiesta O Reunión
+368,Picante Chapín,Para Compartir Entre 2 Personas
+369,Barbacoa,Familiar
+370,Jalapeño,Individual
+371,Barbacoa,Familiar
+372,Picante Chapín,Tamaño Fiesta O Reunión
+373,Dulce,Individual
+374,Picante Chapín,Individual
+375,Barbacoa,Familiar
+376,Salado Tradicional,Familiar
+377,Limón,Individual
+378,Barbacoa,Para Compartir Entre 2 Personas
+379,Picante Chapín,Para Compartir Entre 2 Personas
+380,Barbacoa,Tamaño Fiesta O Reunión
+381,Jalapeño,Familiar
+382,Chocolate,Familiar
+383,Barbacoa,Para Compartir Entre 2 Personas
+384,Picante Chapín,Individual
+385,Picante Chapín,Familiar
+386,Chocolate,Individual
+387,Barbacoa,Individual
+388,Limón,Individual
+389,Picante Chapín,Individual
+390,Picante Chapín,Para Compartir Entre 2 Personas
+391,Caramelo,Individual
+392,Chocolate,Para Compartir Entre 2 Personas
+393,Picante Chapín,Individual
+394,Limón,Individual
+395,Caramelo,Familiar
+396,Caramelo,Familiar
+397,Queso,Individual
+398,Picante Chapín,Para Compartir Entre 2 Personas
+399,Barbacoa,Para Compartir Entre 2 Personas
+400,Barbacoa,Para Compartir Entre 2 Personas
+401,Salado Tradicional,Familiar
+402,Queso,Familiar
+403,Salado Tradicional,Tamaño Fiesta O Reunión
+404,Jalapeño,Para Compartir Entre 2 Personas
+405,Barbacoa,Para Compartir Entre 2 Personas
+406,Jalapeño,Para Compartir Entre 2 Personas
+407,Dulce,Familiar
+408,Queso,Para Compartir Entre 2 Personas
+409,Picante Chapín,Tamaño Fiesta O Reunión
+410,Jalapeño,Individual
+411,Jalapeño,Para Compartir Entre 2 Personas
+412,Chocolate,Familiar
+413,Barbacoa,Individual
+414,Barbacoa,Individual
+415,Barbacoa,Para Compartir Entre 2 Personas
+416,Queso,Tamaño Fiesta O Reunión
+417,Picante Chapín,Individual
+418,Jalapeño,Individual
+97,Picante Chapín,Tamaño Fiesta O Reunión
+420,Jalapeño,Para Compartir Entre 2 Personas
+421,Barbacoa,Individual
+422,Salado Tradicional,Para Compartir Entre 2 Personas
+423,Queso,Individual
+424,Chocolate,Familiar
+425,Picante Chapín,Familiar
+426,Queso,Familiar
+427,Picante Chapín,Para Compartir Entre 2 Personas
+428,Salado Tradicional,Individual
+429,Barbacoa,Individual
+430,Caramelo,Para Compartir Entre 2 Personas
+431,Jalapeño,Tamaño Fiesta O Reunión
+432,Jalapeño,Familiar
+433,Queso,Para Compartir Entre 2 Personas
+434,Picante Chapín,Para Compartir Entre 2 Personas
+435,Picante Chapín,Familiar
+436,Dulce,Familiar
+437,Queso,Familiar
+438,Jalapeño,Familiar
+439,Dulce,Familiar
+440,Jalapeño,Individual
+441,Limón,Tamaño Fiesta O Reunión
+442,Jalapeño,Familiar
+443,Barbacoa,Familiar
+444,Barbacoa,Para Compartir Entre 2 Personas
+445,Barbacoa,Tamaño Fiesta O Reunión
+446,Dulce,Familiar
+447,Dulce,Individual
+448,Jalapeño,Para Compartir Entre 2 Personas
+449,Queso,Para Compartir Entre 2 Personas
+1193,Jalapeño,Individual
+451,Chocolate,Tamaño Fiesta O Reunión
+452,Salado Tradicional,Familiar
+453,Caramelo,Individual
+454,Queso,Familiar
+455,Limón,Individual
+456,Queso,Para Compartir Entre 2 Personas
+457,Queso,Para Compartir Entre 2 Personas
+458,Salado Tradicional,Familiar
+459,Chocolate,Familiar
+460,Picante Chapín,Para Compartir Entre 2 Personas
+461,Barbacoa,Para Compartir Entre 2 Personas
+462,Queso,Individual
+463,Chocolate,Familiar
+1049,Picante Chapín,Tamaño Fiesta O Reunión
+465,Queso,Tamaño Fiesta O Reunión
+466,Picante Chapín,Para Compartir Entre 2 Personas
+467,Salado Tradicional,Individual
+468,Barbacoa,Familiar
+469,Barbacoa,Individual
+470,Picante Chapín,Para Compartir Entre 2 Personas
+471,Queso,Individual
+472,Jalapeño,Familiar
+473,Jalapeño,Familiar
+2439,Dulce,Familiar
+475,Chocolate,Tamaño Fiesta O Reunión
+476,Queso,Tamaño Fiesta O Reunión
+477,Salado Tradicional,Individual
+478,Salado Tradicional,Familiar
+479,Picante Chapín,Familiar
+480,Limón,Individual
+481,Jalapeño,Individual
+482,Queso,Familiar
+483,Salado Tradicional,Para Compartir Entre 2 Personas
+484,Chocolate,Tamaño Fiesta O Reunión
+485,Limón,Individual
+486,Limón,Individual
+487,Dulce,Para Compartir Entre 2 Personas
+488,Picante Chapín,Familiar
+489,Chocolate,Tamaño Fiesta O Reunión
+490,Queso,Familiar
+491,Chocolate,Individual
+492,Picante Chapín,Familiar
+493,Chocolate,Individual
+494,Salado Tradicional,Individual
+495,Barbacoa,Para Compartir Entre 2 Personas
+496,Queso,Familiar
+497,Picante Chapín,Familiar
+498,Chocolate,Tamaño Fiesta O Reunión
+499,Dulce,Familiar
+500,No Indicado,Tamaño Fiesta O Reunión
+501,Queso,Familiar
+502,Salado Tradicional,Tamaño Fiesta O Reunión
+503,Queso,Tamaño Fiesta O Reunión
+504,Picante Chapín,Familiar
+505,Picante Chapín,Para Compartir Entre 2 Personas
+506,Barbacoa,Familiar
+507,Barbacoa,Para Compartir Entre 2 Personas
+508,Jalapeño,Familiar
+509,Barbacoa,Tamaño Fiesta O Reunión
+510,Salado Tradicional,Individual
+511,Salado Tradicional,Individual
+512,Chocolate,Individual
+513,Limón,Tamaño Fiesta O Reunión
+514,No Indicado,Para Compartir Entre 2 Personas
+515,Queso,Para Compartir Entre 2 Personas
+516,Caramelo,Tamaño Fiesta O Reunión
+517,Salado Tradicional,Para Compartir Entre 2 Personas
+518,Queso,Tamaño Fiesta O Reunión
+519,Queso,Individual
+520,Limón,Para Compartir Entre 2 Personas
+521,Jalapeño,Para Compartir Entre 2 Personas
+522,Queso,Familiar
+523,Barbacoa,Familiar
+524,Queso,Para Compartir Entre 2 Personas
+525,Salado Tradicional,Individual
+526,Limón,Familiar
+527,Picante Chapín,Individual
+528,Caramelo,Familiar
+529,Limón,Familiar
+530,Chocolate,Individual
+531,Queso,Familiar
+532,Barbacoa,Tamaño Fiesta O Reunión
+533,Queso,Individual
+534,Picante Chapín,Familiar
+535,Salado Tradicional,Individual
+536,Caramelo,Familiar
+537,Limón,Para Compartir Entre 2 Personas
+538,Chocolate,Familiar
+539,Dulce,Tamaño Fiesta O Reunión
+540,Chocolate,Tamaño Fiesta O Reunión
+541,Picante Chapín,Familiar
+542,Barbacoa,Familiar
+543,Dulce,Individual
+544,Limón,Para Compartir Entre 2 Personas
+545,Barbacoa,Familiar
+546,Chocolate,Familiar
+547,Barbacoa,Individual
+548,Jalapeño,Para Compartir Entre 2 Personas
+549,Barbacoa,Individual
+550,Jalapeño,Para Compartir Entre 2 Personas
+551,Picante Chapín,Familiar
+552,Jalapeño,Familiar
+553,Chocolate,Familiar
+554,Barbacoa,Familiar
+555,Queso,Familiar
+556,Salado Tradicional,Individual
+557,Barbacoa,Para Compartir Entre 2 Personas
+558,Queso,Para Compartir Entre 2 Personas
+559,Queso,Para Compartir Entre 2 Personas
+560,Chocolate,Familiar
+561,Queso,Familiar
+562,Picante Chapín,Individual
+563,Limón,Tamaño Fiesta O Reunión
+564,Barbacoa,Para Compartir Entre 2 Personas
+565,Queso,Individual
+566,Caramelo,Individual
+567,Salado Tradicional,Para Compartir Entre 2 Personas
+568,Barbacoa,Individual
+569,Picante Chapín,Familiar
+570,Queso,Tamaño Fiesta O Reunión
+571,Barbacoa,Para Compartir Entre 2 Personas
+572,Chocolate,Para Compartir Entre 2 Personas
+573,Queso,Familiar
+574,Queso,Familiar
+575,Picante Chapín,Familiar
+576,Barbacoa,Familiar
+577,Chocolate,Individual
+578,Chocolate,Familiar
+579,Limón,Individual
+580,Limón,Para Compartir Entre 2 Personas
+581,Salado Tradicional,Familiar
+582,Jalapeño,Tamaño Fiesta O Reunión
+583,Dulce,Para Compartir Entre 2 Personas
+584,Barbacoa,Familiar
+585,Queso,Tamaño Fiesta O Reunión
+586,Queso,Familiar
+587,Picante Chapín,Para Compartir Entre 2 Personas
+588,Picante Chapín,Individual
+589,Chocolate,Tamaño Fiesta O Reunión
+590,Salado Tradicional,Individual
+591,Picante Chapín,Individual
+592,Queso,Familiar
+593,Jalapeño,Para Compartir Entre 2 Personas
+594,Barbacoa,Familiar
+595,Jalapeño,Familiar
+596,Queso,Para Compartir Entre 2 Personas
+597,Picante Chapín,Para Compartir Entre 2 Personas
+598,Jalapeño,Familiar
+599,Salado Tradicional,Individual
+600,Picante Chapín,Tamaño Fiesta O Reunión
+601,Picante Chapín,Familiar
+602,Jalapeño,Familiar
+603,Barbacoa,Familiar
+604,Queso,Familiar
+605,Barbacoa,Individual
+606,Jalapeño,Tamaño Fiesta O Reunión
+607,Queso,Para Compartir Entre 2 Personas
+608,Caramelo,Familiar
+609,Barbacoa,Tamaño Fiesta O Reunión
+1416,Dulce,Tamaño Fiesta O Reunión
+611,Chocolate,Familiar
+612,Limón,Tamaño Fiesta O Reunión
+613,Chocolate,Individual
+614,Jalapeño,Familiar
+615,Salado Tradicional,Familiar
+1472,Picante Chapín,Individual
+617,Limón,Para Compartir Entre 2 Personas
+618,Limón,Tamaño Fiesta O Reunión
+619,Dulce,Familiar
+620,Chocolate,Familiar
+621,Picante Chapín,Para Compartir Entre 2 Personas
+622,Dulce,Familiar
+623,Queso,Familiar
+624,Queso,Tamaño Fiesta O Reunión
+625,Salado Tradicional,Familiar
+626,Jalapeño,Tamaño Fiesta O Reunión
+627,Picante Chapín,Individual
+628,Picante Chapín,Tamaño Fiesta O Reunión
+629,Queso,Para Compartir Entre 2 Personas
+630,Jalapeño,Para Compartir Entre 2 Personas
+631,Queso,Para Compartir Entre 2 Personas
+632,Salado Tradicional,Familiar
+633,Picante Chapín,Familiar
+634,Limón,Familiar
+635,Dulce,Individual
+636,Caramelo,Para Compartir Entre 2 Personas
+637,Chocolate,Tamaño Fiesta O Reunión
+638,Picante Chapín,Familiar
+639,Barbacoa,Familiar
+640,Chocolate,Para Compartir Entre 2 Personas
+641,Queso,Para Compartir Entre 2 Personas
+642,Limón,Familiar
+643,Limón,Tamaño Fiesta O Reunión
+644,Barbacoa,Individual
+645,Limón,Individual
+646,Picante Chapín,Familiar
+647,Picante Chapín,Tamaño Fiesta O Reunión
+648,Barbacoa,Tamaño Fiesta O Reunión
+649,Picante Chapín,Tamaño Fiesta O Reunión
+650,Chocolate,Familiar
+651,Barbacoa,Tamaño Fiesta O Reunión
+652,Picante Chapín,Familiar
+653,Limón,Individual
+654,Barbacoa,Para Compartir Entre 2 Personas
+655,Jalapeño,Familiar
+656,Chocolate,Individual
+657,Picante Chapín,Para Compartir Entre 2 Personas
+658,Barbacoa,Para Compartir Entre 2 Personas
+659,Barbacoa,Tamaño Fiesta O Reunión
+660,Queso,Individual
+661,Limón,Familiar
+662,Jalapeño,Familiar
+663,Picante Chapín,Para Compartir Entre 2 Personas
+664,No Indicado,Familiar
+665,Barbacoa,Individual
+666,Chocolate,Individual
+667,Jalapeño,Familiar
+668,Barbacoa,Para Compartir Entre 2 Personas
+669,Barbacoa,Familiar
+670,Caramelo,Individual
+671,Queso,Para Compartir Entre 2 Personas
+672,Dulce,Familiar
+673,Barbacoa,Tamaño Fiesta O Reunión
+674,Picante Chapín,Individual
+675,Limón,Para Compartir Entre 2 Personas
+676,Barbacoa,Familiar
+677,Barbacoa,Tamaño Fiesta O Reunión
+678,Queso,Tamaño Fiesta O Reunión
+679,Queso,Para Compartir Entre 2 Personas
+680,Barbacoa,Individual
+681,Picante Chapín,Familiar
+682,Picante Chapín,Individual
+683,Limón,Para Compartir Entre 2 Personas
+684,Barbacoa,Para Compartir Entre 2 Personas
+685,Barbacoa,Familiar
+686,Queso,Individual
+687,Jalapeño,Para Compartir Entre 2 Personas
+688,Salado Tradicional,Para Compartir Entre 2 Personas
+689,Queso,Para Compartir Entre 2 Personas
+1961,Queso,Para Compartir Entre 2 Personas
+691,Queso,Tamaño Fiesta O Reunión
+692,Dulce,Individual
+693,Chocolate,Familiar
+694,Chocolate,Individual
+695,Limón,Familiar
+696,Chocolate,Para Compartir Entre 2 Personas
+697,Barbacoa,Individual
+698,Jalapeño,Para Compartir Entre 2 Personas
+699,Picante Chapín,Familiar
+700,Barbacoa,Familiar
+701,Limón,Familiar
+702,Queso,Individual
+703,Queso,Familiar
+704,Picante Chapín,Tamaño Fiesta O Reunión
+705,Picante Chapín,Individual
+706,Jalapeño,Tamaño Fiesta O Reunión
+707,Queso,Tamaño Fiesta O Reunión
+708,Caramelo,Familiar
+709,Jalapeño,Familiar
+710,Caramelo,Familiar
+711,Jalapeño,Familiar
+712,Barbacoa,Para Compartir Entre 2 Personas
+713,Picante Chapín,Tamaño Fiesta O Reunión
+714,Queso,Individual
+715,Dulce,Familiar
+716,Queso,Familiar
+717,Jalapeño,Para Compartir Entre 2 Personas
+718,Picante Chapín,Para Compartir Entre 2 Personas
+719,Jalapeño,Familiar
+720,Barbacoa,Para Compartir Entre 2 Personas
+721,Barbacoa,Familiar
+722,Caramelo,Para Compartir Entre 2 Personas
+723,Picante Chapín,Para Compartir Entre 2 Personas
+724,Chocolate,Tamaño Fiesta O Reunión
+725,Jalapeño,Familiar
+726,Limón,Individual
+727,Barbacoa,Individual
+728,Queso,Para Compartir Entre 2 Personas
+729,Jalapeño,Tamaño Fiesta O Reunión
+730,Dulce,Para Compartir Entre 2 Personas
+731,Barbacoa,Familiar
+732,Queso,Familiar
+733,Dulce,Familiar
+734,Queso,Familiar
+735,Limón,Para Compartir Entre 2 Personas
+736,Picante Chapín,Familiar
+737,Limón,Para Compartir Entre 2 Personas
+738,Dulce,Familiar
+739,Salado Tradicional,Individual
+740,Salado Tradicional,Tamaño Fiesta O Reunión
+741,Picante Chapín,Familiar
+742,Dulce,Familiar
+743,Queso,Individual
+744,Queso,Tamaño Fiesta O Reunión
+745,Limón,Tamaño Fiesta O Reunión
+746,Jalapeño,Familiar
+747,Picante Chapín,Individual
+748,Chocolate,Individual
+749,Jalapeño,Individual
+750,Barbacoa,Tamaño Fiesta O Reunión
+751,Salado Tradicional,Para Compartir Entre 2 Personas
+752,Salado Tradicional,Familiar
+753,Barbacoa,Individual
+754,Chocolate,Familiar
+755,Salado Tradicional,Tamaño Fiesta O Reunión
+756,Picante Chapín,Familiar
+757,Chocolate,Para Compartir Entre 2 Personas
+758,Chocolate,Tamaño Fiesta O Reunión
+759,Jalapeño,Para Compartir Entre 2 Personas
+760,Queso,Individual
+761,Salado Tradicional,Para Compartir Entre 2 Personas
+762,Caramelo,Para Compartir Entre 2 Personas
+763,Jalapeño,Familiar
+764,Barbacoa,Familiar
+765,Queso,Familiar
+766,Picante Chapín,Tamaño Fiesta O Reunión
+767,Queso,Para Compartir Entre 2 Personas
+768,Queso,Familiar
+769,Jalapeño,Para Compartir Entre 2 Personas
+770,Barbacoa,Para Compartir Entre 2 Personas
+771,Limón,Familiar
+772,Queso,Familiar
+773,Dulce,Familiar
+774,Limón,Individual
+775,Limón,Para Compartir Entre 2 Personas
+776,Barbacoa,Familiar
+777,Jalapeño,Familiar
+778,Limón,Tamaño Fiesta O Reunión
+779,Dulce,Tamaño Fiesta O Reunión
+780,Picante Chapín,Tamaño Fiesta O Reunión
+781,Jalapeño,Familiar
+782,Jalapeño,Individual
+783,Picante Chapín,Individual
+784,Queso,Individual
+785,Queso,Para Compartir Entre 2 Personas
+786,Jalapeño,Familiar
+787,Queso,Familiar
+788,Barbacoa,Familiar
+789,Barbacoa,Familiar
+790,Queso,Individual
+791,Picante Chapín,Individual
+792,Caramelo,Familiar
+793,Queso,Tamaño Fiesta O Reunión
+794,Chocolate,Familiar
+795,Limón,Individual
+796,Picante Chapín,Individual
+797,Barbacoa,Tamaño Fiesta O Reunión
+798,Salado Tradicional,Tamaño Fiesta O Reunión
+799,Jalapeño,Familiar
+800,Limón,Tamaño Fiesta O Reunión
+801,Barbacoa,Familiar
+802,Queso,Para Compartir Entre 2 Personas
+803,Picante Chapín,Para Compartir Entre 2 Personas
+804,Queso,Para Compartir Entre 2 Personas
+805,Picante Chapín,Familiar
+806,Chocolate,Individual
+807,Jalapeño,Individual
+808,Queso,Familiar
+809,Caramelo,Familiar
+810,Picante Chapín,Familiar
+811,Limón,Individual
+812,Limón,Familiar
+813,Chocolate,Familiar
+814,Chocolate,Tamaño Fiesta O Reunión
+815,Barbacoa,Familiar
+816,Queso,Tamaño Fiesta O Reunión
+817,Salado Tradicional,Para Compartir Entre 2 Personas
+818,Picante Chapín,Tamaño Fiesta O Reunión
+819,Barbacoa,Tamaño Fiesta O Reunión
+820,Jalapeño,Para Compartir Entre 2 Personas
+821,Queso,Tamaño Fiesta O Reunión
+822,Chocolate,Familiar
+823,Picante Chapín,Tamaño Fiesta O Reunión
+824,Barbacoa,Tamaño Fiesta O Reunión
+825,Limón,Individual
+826,Queso,Tamaño Fiesta O Reunión
+827,Barbacoa,Tamaño Fiesta O Reunión
+828,Picante Chapín,Familiar
+829,Barbacoa,Para Compartir Entre 2 Personas
+830,Picante Chapín,Individual
+831,Barbacoa,Individual
+832,Chocolate,Para Compartir Entre 2 Personas
+833,Queso,Familiar
+834,Barbacoa,Familiar
+835,Queso,Tamaño Fiesta O Reunión
+836,Barbacoa,Tamaño Fiesta O Reunión
+837,Barbacoa,Para Compartir Entre 2 Personas
+838,Queso,Familiar
+839,Barbacoa,Tamaño Fiesta O Reunión
+840,Chocolate,Individual
+841,Limón,Tamaño Fiesta O Reunión
+842,Queso,Tamaño Fiesta O Reunión
+843,Queso,Individual
+844,Limón,Familiar
+845,Barbacoa,Familiar
+846,Jalapeño,Para Compartir Entre 2 Personas
+847,Chocolate,Para Compartir Entre 2 Personas
+848,Jalapeño,Individual
+849,Dulce,Familiar
+850,Limón,Tamaño Fiesta O Reunión
+851,Jalapeño,Familiar
+852,Limón,Familiar
+853,Picante Chapín,Para Compartir Entre 2 Personas
+854,Salado Tradicional,Individual
+855,Queso,Tamaño Fiesta O Reunión
+856,Salado Tradicional,Individual
+857,Chocolate,Individual
+858,Jalapeño,Familiar
+859,Salado Tradicional,Familiar
+860,Picante Chapín,Tamaño Fiesta O Reunión
+861,Limón,Familiar
+862,Jalapeño,Familiar
+863,Barbacoa,Familiar
+864,Jalapeño,Individual
+865,Queso,Tamaño Fiesta O Reunión
+866,Jalapeño,Individual
+867,Chocolate,Familiar
+868,Dulce,Familiar
+869,Jalapeño,Familiar
+870,Barbacoa,Tamaño Fiesta O Reunión
+871,Chocolate,Para Compartir Entre 2 Personas
+872,Jalapeño,Para Compartir Entre 2 Personas
+873,Queso,Individual
+874,Barbacoa,Familiar
+875,Queso,Familiar
+876,Picante Chapín,Tamaño Fiesta O Reunión
+877,Queso,Individual
+878,Queso,Individual
+879,Picante Chapín,Familiar
+880,Limón,Para Compartir Entre 2 Personas
+881,Jalapeño,Individual
+882,Barbacoa,Individual
+883,Barbacoa,Individual
+884,Limón,Familiar
+885,Barbacoa,Familiar
+886,Barbacoa,Tamaño Fiesta O Reunión
+95,Limón,Individual
+888,Caramelo,Tamaño Fiesta O Reunión
+889,Queso,Familiar
+890,Jalapeño,Individual
+891,Chocolate,Individual
+892,Queso,Familiar
+893,Chocolate,Familiar
+894,Limón,Individual
+895,Caramelo,Familiar
+896,Barbacoa,Individual
+897,Queso,Para Compartir Entre 2 Personas
+898,Dulce,Individual
+899,Queso,Familiar
+900,Salado Tradicional,Familiar
+901,Jalapeño,Individual
+902,Picante Chapín,Tamaño Fiesta O Reunión
+903,Caramelo,Tamaño Fiesta O Reunión
+904,Salado Tradicional,Tamaño Fiesta O Reunión
+905,Picante Chapín,Tamaño Fiesta O Reunión
+906,Caramelo,Tamaño Fiesta O Reunión
+907,Picante Chapín,Familiar
+908,Chocolate,Tamaño Fiesta O Reunión
+909,No Indicado,Para Compartir Entre 2 Personas
+910,Jalapeño,Tamaño Fiesta O Reunión
+911,Picante Chapín,Familiar
+912,Barbacoa,Familiar
+913,Limón,Tamaño Fiesta O Reunión
+914,Barbacoa,Individual
+915,Limón,Para Compartir Entre 2 Personas
+916,Queso,Para Compartir Entre 2 Personas
+917,Queso,Para Compartir Entre 2 Personas
+918,Salado Tradicional,Individual
+919,Limón,Tamaño Fiesta O Reunión
+920,Limón,Individual
+921,Chocolate,Para Compartir Entre 2 Personas
+922,Jalapeño,Familiar
+923,Barbacoa,Familiar
+924,Barbacoa,Individual
+925,Barbacoa,Individual
+926,Picante Chapín,Familiar
+927,Queso,Familiar
+928,Queso,Tamaño Fiesta O Reunión
+929,Picante Chapín,Individual
+930,Limón,Para Compartir Entre 2 Personas
+931,Limón,Individual
+932,Caramelo,Individual
+933,Limón,Para Compartir Entre 2 Personas
+934,Picante Chapín,Familiar
+935,Barbacoa,Para Compartir Entre 2 Personas
+936,Queso,Para Compartir Entre 2 Personas
+937,Barbacoa,Para Compartir Entre 2 Personas
+617,Limón,Para Compartir Entre 2 Personas
+939,Picante Chapín,Tamaño Fiesta O Reunión
+940,Limón,Familiar
+941,Dulce,Familiar
+942,Barbacoa,Familiar
+943,Jalapeño,Individual
+944,Limón,Familiar
+945,Salado Tradicional,Individual
+946,Picante Chapín,Para Compartir Entre 2 Personas
+947,Limón,Familiar
+948,Limón,Familiar
+949,Jalapeño,Individual
+950,Chocolate,Familiar
+951,Chocolate,Tamaño Fiesta O Reunión
+952,Chocolate,Individual
+953,Barbacoa,Para Compartir Entre 2 Personas
+954,Queso,Familiar
+955,Picante Chapín,Familiar
+956,Barbacoa,Familiar
+957,Limón,Tamaño Fiesta O Reunión
+958,Jalapeño,Familiar
+959,Barbacoa,Familiar
+960,Limón,Individual
+961,Barbacoa,Para Compartir Entre 2 Personas
+962,Queso,Para Compartir Entre 2 Personas
+963,Picante Chapín,Familiar
+964,Picante Chapín,Individual
+965,Queso,Familiar
+966,Barbacoa,Para Compartir Entre 2 Personas
+967,Picante Chapín,Para Compartir Entre 2 Personas
+968,Salado Tradicional,Individual
+969,Limón,Familiar
+970,Picante Chapín,Familiar
+971,Queso,Individual
+972,Jalapeño,Tamaño Fiesta O Reunión
+973,Jalapeño,Para Compartir Entre 2 Personas
+974,Queso,Individual
+975,Caramelo,Individual
+976,Jalapeño,Tamaño Fiesta O Reunión
+977,Jalapeño,Familiar
+978,Jalapeño,Familiar
+979,Barbacoa,Familiar
+980,Caramelo,Para Compartir Entre 2 Personas
+981,Picante Chapín,Tamaño Fiesta O Reunión
+982,Jalapeño,Familiar
+983,Picante Chapín,Para Compartir Entre 2 Personas
+984,Salado Tradicional,Familiar
+985,Barbacoa,Para Compartir Entre 2 Personas
+986,Salado Tradicional,Familiar
+987,Salado Tradicional,Familiar
+988,Chocolate,Para Compartir Entre 2 Personas
+989,Jalapeño,Individual
+990,Salado Tradicional,Individual
+991,Queso,Familiar
+992,Queso,Para Compartir Entre 2 Personas
+993,Barbacoa,Para Compartir Entre 2 Personas
+994,Salado Tradicional,Individual
+995,Caramelo,Familiar
+996,Picante Chapín,Individual
+997,Picante Chapín,Familiar
+998,Picante Chapín,Para Compartir Entre 2 Personas
+999,Jalapeño,Para Compartir Entre 2 Personas
+1000,Jalapeño,Tamaño Fiesta O Reunión
+1001,Picante Chapín,Para Compartir Entre 2 Personas
+1002,Jalapeño,Individual
+1003,Salado Tradicional,Tamaño Fiesta O Reunión
+1004,Barbacoa,Familiar
+1005,Caramelo,Tamaño Fiesta O Reunión
+1006,Salado Tradicional,Familiar
+1007,Picante Chapín,Para Compartir Entre 2 Personas
+1008,Queso,Para Compartir Entre 2 Personas
+1009,Queso,Individual
+1010,Queso,Familiar
+1011,Queso,Familiar
+1012,Jalapeño,Familiar
+1013,Dulce,Tamaño Fiesta O Reunión
+1014,Salado Tradicional,Familiar
+1015,Limón,Familiar
+1016,Caramelo,Para Compartir Entre 2 Personas
+1017,Picante Chapín,Familiar
+1018,Limón,Familiar
+1019,Dulce,Para Compartir Entre 2 Personas
+1020,Limón,Para Compartir Entre 2 Personas
+1021,Barbacoa,Familiar
+1022,Queso,Para Compartir Entre 2 Personas
+1023,Queso,Para Compartir Entre 2 Personas
+1024,Chocolate,Familiar
+1025,Queso,Familiar
+1026,Picante Chapín,Para Compartir Entre 2 Personas
+1027,Picante Chapín,Individual
+1028,Picante Chapín,Para Compartir Entre 2 Personas
+1029,Salado Tradicional,Individual
+1030,Dulce,Familiar
+1031,Dulce,Individual
+1032,Queso,Para Compartir Entre 2 Personas
+1033,Chocolate,Familiar
+1034,Queso,Para Compartir Entre 2 Personas
+1035,Picante Chapín,Familiar
+1036,Jalapeño,Tamaño Fiesta O Reunión
+1037,Queso,Familiar
+1038,Barbacoa,Para Compartir Entre 2 Personas
+1039,Jalapeño,Para Compartir Entre 2 Personas
+1040,Caramelo,Para Compartir Entre 2 Personas
+1041,Queso,Familiar
+1042,Salado Tradicional,Familiar
+1043,Dulce,Familiar
+1044,No Indicado,Familiar
+1045,Caramelo,Para Compartir Entre 2 Personas
+1046,Queso,Para Compartir Entre 2 Personas
+1047,Limón,Para Compartir Entre 2 Personas
+1048,Chocolate,Para Compartir Entre 2 Personas
+1049,Picante Chapín,Tamaño Fiesta O Reunión
+1050,Picante Chapín,Para Compartir Entre 2 Personas
+1051,Picante Chapín,Para Compartir Entre 2 Personas
+1052,Caramelo,Familiar
+1053,Jalapeño,Individual
+1054,Picante Chapín,Familiar
+1055,Queso,Familiar
+1056,Picante Chapín,Tamaño Fiesta O Reunión
+1057,Queso,Para Compartir Entre 2 Personas
+1058,Barbacoa,Tamaño Fiesta O Reunión
+1059,Caramelo,Tamaño Fiesta O Reunión
+1060,Barbacoa,Familiar
+1061,Picante Chapín,Tamaño Fiesta O Reunión
+1062,Dulce,Individual
+1063,Caramelo,Para Compartir Entre 2 Personas
+1064,Limón,Para Compartir Entre 2 Personas
+1065,Queso,Individual
+1066,Barbacoa,Para Compartir Entre 2 Personas
+1067,Jalapeño,Familiar
+1068,Queso,Individual
+1069,Picante Chapín,Familiar
+1070,Jalapeño,Para Compartir Entre 2 Personas
+1071,Barbacoa,Familiar
+1072,No Indicado,Para Compartir Entre 2 Personas
+1073,Queso,Familiar
+1074,Queso,Para Compartir Entre 2 Personas
+1075,Picante Chapín,Individual
+1076,Picante Chapín,Familiar
+1077,Limón,Para Compartir Entre 2 Personas
+1078,Salado Tradicional,Individual
+1079,Queso,Para Compartir Entre 2 Personas
+1080,Picante Chapín,Familiar
+1081,Picante Chapín,Familiar
+1082,Dulce,Familiar
+1083,Picante Chapín,Tamaño Fiesta O Reunión
+1084,Jalapeño,Familiar
+1085,Picante Chapín,Para Compartir Entre 2 Personas
+1086,Jalapeño,Para Compartir Entre 2 Personas
+1087,Jalapeño,Tamaño Fiesta O Reunión
+1088,Jalapeño,Familiar
+1089,Barbacoa,Tamaño Fiesta O Reunión
+2124,Barbacoa,Familiar
+1091,Jalapeño,Para Compartir Entre 2 Personas
+1092,Limón,Tamaño Fiesta O Reunión
+1093,Picante Chapín,Familiar
+1094,Picante Chapín,Tamaño Fiesta O Reunión
+1095,Picante Chapín,Familiar
+1096,Jalapeño,Para Compartir Entre 2 Personas
+1097,Jalapeño,Para Compartir Entre 2 Personas
+1098,Jalapeño,Individual
+1099,Picante Chapín,Familiar
+1100,Limón,Para Compartir Entre 2 Personas
+1101,Chocolate,Tamaño Fiesta O Reunión
+1102,Salado Tradicional,Para Compartir Entre 2 Personas
+1103,Barbacoa,Familiar
+1104,Dulce,Para Compartir Entre 2 Personas
+1105,Barbacoa,Familiar
+1106,Jalapeño,Familiar
+1107,Limón,Para Compartir Entre 2 Personas
+2199,Queso,Familiar
+1109,Limón,Tamaño Fiesta O Reunión
+1110,Chocolate,Familiar
+1111,Salado Tradicional,Familiar
+1112,Picante Chapín,Tamaño Fiesta O Reunión
+1113,Queso,Para Compartir Entre 2 Personas
+1114,Queso,Para Compartir Entre 2 Personas
+1115,Picante Chapín,Familiar
+558,Queso,Para Compartir Entre 2 Personas
+1117,Jalapeño,Individual
+1118,Limón,Familiar
+1119,Picante Chapín,Familiar
+1120,Queso,Individual
+1121,Limón,Familiar
+1122,Picante Chapín,Para Compartir Entre 2 Personas
+1123,Jalapeño,Individual
+1124,Chocolate,Para Compartir Entre 2 Personas
+1125,No Indicado,Individual
+1126,Salado Tradicional,Tamaño Fiesta O Reunión
+1127,Picante Chapín,Individual
+373,Dulce,Individual
+1129,Barbacoa,Para Compartir Entre 2 Personas
+1130,Barbacoa,Familiar
+1131,Limón,Para Compartir Entre 2 Personas
+1132,Limón,Familiar
+1133,Chocolate,Familiar
+1134,Limón,Individual
+1135,Queso,Familiar
+1136,Limón,Tamaño Fiesta O Reunión
+1137,Limón,Tamaño Fiesta O Reunión
+1138,Chocolate,Para Compartir Entre 2 Personas
+1139,Queso,Tamaño Fiesta O Reunión
+1140,Barbacoa,Individual
+1141,Caramelo,Para Compartir Entre 2 Personas
+1142,Limón,Individual
+1143,Barbacoa,Individual
+1144,Chocolate,Para Compartir Entre 2 Personas
+1145,Picante Chapín,Familiar
+1146,Dulce,Familiar
+1147,Queso,Individual
+1148,Barbacoa,Familiar
+1149,Queso,Para Compartir Entre 2 Personas
+1150,Dulce,Individual
+1151,Caramelo,Familiar
+1152,Queso,Familiar
+1153,Picante Chapín,Tamaño Fiesta O Reunión
+1154,Queso,Familiar
+1155,Limón,Familiar
+1156,Picante Chapín,Familiar
+1157,Salado Tradicional,Familiar
+1158,Picante Chapín,Para Compartir Entre 2 Personas
+1159,Jalapeño,Familiar
+1160,Jalapeño,Individual
+1161,Barbacoa,Tamaño Fiesta O Reunión
+1162,Jalapeño,Familiar
+1163,Queso,Individual
+1164,Jalapeño,Para Compartir Entre 2 Personas
+1165,Picante Chapín,Para Compartir Entre 2 Personas
+1166,Jalapeño,Familiar
+1167,Chocolate,Individual
+1168,Jalapeño,Individual
+1169,Caramelo,Individual
+1170,Jalapeño,Individual
+1171,Chocolate,Individual
+1172,Picante Chapín,Para Compartir Entre 2 Personas
+1173,Picante Chapín,Familiar
+1174,Salado Tradicional,Tamaño Fiesta O Reunión
+1175,Barbacoa,Individual
+1176,Picante Chapín,Individual
+1177,Jalapeño,Familiar
+1178,Limón,Familiar
+1179,Picante Chapín,Para Compartir Entre 2 Personas
+1180,Queso,Familiar
+1181,Picante Chapín,Individual
+1182,Barbacoa,Para Compartir Entre 2 Personas
+1183,Picante Chapín,Para Compartir Entre 2 Personas
+1184,Barbacoa,Para Compartir Entre 2 Personas
+1185,Dulce,Familiar
+1186,Picante Chapín,Familiar
+1187,Picante Chapín,Para Compartir Entre 2 Personas
+1481,Queso,Individual
+1189,Barbacoa,Para Compartir Entre 2 Personas
+1190,Queso,Para Compartir Entre 2 Personas
+1191,Queso,Tamaño Fiesta O Reunión
+1192,Picante Chapín,Individual
+1193,Jalapeño,Individual
+1194,Picante Chapín,Familiar
+1195,Picante Chapín,Familiar
+1196,Queso,Familiar
+1197,Jalapeño,Tamaño Fiesta O Reunión
+1198,Barbacoa,Para Compartir Entre 2 Personas
+1199,Chocolate,Individual
+1200,Barbacoa,Familiar
+1201,Picante Chapín,Familiar
+1202,Queso,Familiar
+1203,Queso,Para Compartir Entre 2 Personas
+1204,No Indicado,Tamaño Fiesta O Reunión
+1205,Picante Chapín,Tamaño Fiesta O Reunión
+1206,Picante Chapín,Tamaño Fiesta O Reunión
+1207,Jalapeño,Tamaño Fiesta O Reunión
+1208,Barbacoa,Individual
+1209,Picante Chapín,Familiar
+1210,Jalapeño,Familiar
+1211,Picante Chapín,Para Compartir Entre 2 Personas
+1212,Jalapeño,Individual
+1213,Jalapeño,Individual
+1214,Salado Tradicional,Para Compartir Entre 2 Personas
+1215,Salado Tradicional,Para Compartir Entre 2 Personas
+1216,Queso,Individual
+1217,Limón,Familiar
+1218,Picante Chapín,Tamaño Fiesta O Reunión
+1219,Queso,Individual
+1220,Picante Chapín,Para Compartir Entre 2 Personas
+1221,Barbacoa,Para Compartir Entre 2 Personas
+1222,Barbacoa,Familiar
+1223,Picante Chapín,Para Compartir Entre 2 Personas
+1224,Picante Chapín,Tamaño Fiesta O Reunión
+1225,Limón,Familiar
+1226,Limón,Para Compartir Entre 2 Personas
+1227,Queso,Para Compartir Entre 2 Personas
+1228,Queso,Familiar
+1229,Jalapeño,Para Compartir Entre 2 Personas
+1230,Dulce,Familiar
+1231,No Indicado,Familiar
+1232,Salado Tradicional,Individual
+1233,Limón,Tamaño Fiesta O Reunión
+1234,Picante Chapín,Tamaño Fiesta O Reunión
+1235,Picante Chapín,Tamaño Fiesta O Reunión
+1236,Picante Chapín,Para Compartir Entre 2 Personas
+1237,Dulce,Individual
+1238,Barbacoa,Familiar
+1239,Queso,Familiar
+1240,Chocolate,Individual
+1241,Limón,Tamaño Fiesta O Reunión
+1242,Dulce,Familiar
+1243,Barbacoa,Tamaño Fiesta O Reunión
+1244,Barbacoa,Para Compartir Entre 2 Personas
+1245,Chocolate,Familiar
+1246,Limón,Tamaño Fiesta O Reunión
+1247,Barbacoa,Familiar
+1248,Picante Chapín,Familiar
+1249,Picante Chapín,Para Compartir Entre 2 Personas
+1250,Picante Chapín,Individual
+1251,Limón,Individual
+1252,Picante Chapín,Individual
+1253,Queso,Individual
+1254,Picante Chapín,Para Compartir Entre 2 Personas
+1255,Salado Tradicional,Individual
+1256,Jalapeño,Tamaño Fiesta O Reunión
+1257,Queso,Para Compartir Entre 2 Personas
+1258,Limón,Tamaño Fiesta O Reunión
+1259,Queso,Familiar
+1260,Jalapeño,Familiar
+1261,Queso,Familiar
+1262,Queso,Familiar
+1263,Queso,Para Compartir Entre 2 Personas
+1264,Caramelo,Familiar
+1265,Caramelo,Para Compartir Entre 2 Personas
+1266,Salado Tradicional,Para Compartir Entre 2 Personas
+1267,Picante Chapín,Para Compartir Entre 2 Personas
+1268,Barbacoa,Individual
+1269,Picante Chapín,Individual
+1270,Salado Tradicional,Tamaño Fiesta O Reunión
+1271,Queso,Para Compartir Entre 2 Personas
+1864,Salado Tradicional,Tamaño Fiesta O Reunión
+1273,Jalapeño,Individual
+1274,Dulce,Tamaño Fiesta O Reunión
+1275,Chocolate,Individual
+1276,Picante Chapín,Familiar
+1277,Picante Chapín,Individual
+1278,Picante Chapín,Familiar
+1279,Jalapeño,Tamaño Fiesta O Reunión
+1280,Jalapeño,Tamaño Fiesta O Reunión
+1281,Picante Chapín,Individual
+1282,Caramelo,Para Compartir Entre 2 Personas
+1283,Limón,Individual
+1284,Queso,Para Compartir Entre 2 Personas
+1285,Limón,Individual
+1286,Queso,Tamaño Fiesta O Reunión
+1287,Jalapeño,Familiar
+1288,Queso,Para Compartir Entre 2 Personas
+1289,Queso,Familiar
+1290,Salado Tradicional,Tamaño Fiesta O Reunión
+1291,Barbacoa,Individual
+1292,Chocolate,Tamaño Fiesta O Reunión
+1293,Jalapeño,Para Compartir Entre 2 Personas
+1294,Jalapeño,Tamaño Fiesta O Reunión
+1295,Barbacoa,Familiar
+1296,Queso,Familiar
+1297,Jalapeño,Para Compartir Entre 2 Personas
+1298,Queso,Tamaño Fiesta O Reunión
+1299,Picante Chapín,Familiar
+1300,Picante Chapín,Familiar
+1301,Chocolate,Familiar
+1302,Picante Chapín,Para Compartir Entre 2 Personas
+1303,Barbacoa,Familiar
+1304,Picante Chapín,Familiar
+1305,Limón,Individual
+1306,Queso,Familiar
+1307,Salado Tradicional,Para Compartir Entre 2 Personas
+1308,Barbacoa,Familiar
+1309,Queso,Para Compartir Entre 2 Personas
+1310,Chocolate,Para Compartir Entre 2 Personas
+1311,Caramelo,Tamaño Fiesta O Reunión
+1312,Jalapeño,Para Compartir Entre 2 Personas
+1313,Picante Chapín,Individual
+1314,Salado Tradicional,Para Compartir Entre 2 Personas
+1315,Chocolate,Individual
+1316,Salado Tradicional,Para Compartir Entre 2 Personas
+1317,Jalapeño,Familiar
+1318,Queso,Individual
+2405,Queso,Individual
+1320,Picante Chapín,Tamaño Fiesta O Reunión
+1321,Picante Chapín,Tamaño Fiesta O Reunión
+1322,Barbacoa,Tamaño Fiesta O Reunión
+1323,Picante Chapín,Para Compartir Entre 2 Personas
+1324,Limón,Familiar
+1325,Barbacoa,Tamaño Fiesta O Reunión
+1326,Dulce,Tamaño Fiesta O Reunión
+1327,Chocolate,Familiar
+1328,Salado Tradicional,Para Compartir Entre 2 Personas
+1329,Picante Chapín,Individual
+1330,Dulce,Familiar
+1331,Picante Chapín,Familiar
+1332,Queso,Individual
+1333,Queso,Para Compartir Entre 2 Personas
+1334,Barbacoa,Tamaño Fiesta O Reunión
+1335,Jalapeño,Para Compartir Entre 2 Personas
+1336,Picante Chapín,Individual
+1337,Limón,Familiar
+538,Chocolate,Familiar
+1339,Picante Chapín,Familiar
+1340,Chocolate,Familiar
+1341,Picante Chapín,Tamaño Fiesta O Reunión
+1342,Limón,Familiar
+1343,Barbacoa,Familiar
+1344,Salado Tradicional,Individual
+1345,Salado Tradicional,Familiar
+1346,Picante Chapín,Individual
+1347,Barbacoa,Familiar
+1348,Queso,Para Compartir Entre 2 Personas
+1349,Jalapeño,Tamaño Fiesta O Reunión
+1350,Chocolate,Individual
+1351,Queso,Familiar
+1352,Queso,Familiar
+1353,Picante Chapín,Tamaño Fiesta O Reunión
+1354,Caramelo,Familiar
+1355,Queso,Familiar
+1356,Picante Chapín,Individual
+1357,Caramelo,Tamaño Fiesta O Reunión
+1358,Picante Chapín,Tamaño Fiesta O Reunión
+1359,Limón,Familiar
+1360,Chocolate,Para Compartir Entre 2 Personas
+1361,Picante Chapín,Para Compartir Entre 2 Personas
+1362,Limón,Para Compartir Entre 2 Personas
+1363,Picante Chapín,Tamaño Fiesta O Reunión
+1364,Caramelo,Familiar
+1365,Barbacoa,Familiar
+1366,Queso,Familiar
+1367,Salado Tradicional,Para Compartir Entre 2 Personas
+1368,Dulce,Para Compartir Entre 2 Personas
+1369,Queso,Familiar
+1370,Queso,Individual
+1371,Picante Chapín,Para Compartir Entre 2 Personas
+1372,Chocolate,Para Compartir Entre 2 Personas
+1373,Chocolate,Para Compartir Entre 2 Personas
+1374,Dulce,Individual
+1375,Picante Chapín,Individual
+1376,Barbacoa,Para Compartir Entre 2 Personas
+1377,Chocolate,Familiar
+1378,Barbacoa,Para Compartir Entre 2 Personas
+1379,Picante Chapín,Para Compartir Entre 2 Personas
+1380,Barbacoa,Para Compartir Entre 2 Personas
+1381,Caramelo,Para Compartir Entre 2 Personas
+1382,Caramelo,Familiar
+1383,Picante Chapín,Familiar
+1384,Queso,Individual
+1385,Jalapeño,Familiar
+1386,Barbacoa,Para Compartir Entre 2 Personas
+1387,Jalapeño,Individual
+1388,Chocolate,Familiar
+1389,Chocolate,Familiar
+1390,Limón,Individual
+1391,Queso,Familiar
+1392,Dulce,Familiar
+1393,Limón,Familiar
+1394,Dulce,Familiar
+1395,Picante Chapín,Individual
+1396,Salado Tradicional,Familiar
+1397,Picante Chapín,Individual
+1398,Queso,Individual
+1399,Barbacoa,Tamaño Fiesta O Reunión
+1400,Barbacoa,Familiar
+1401,Picante Chapín,Familiar
+1402,Jalapeño,Individual
+1403,Picante Chapín,Familiar
+1404,Queso,Familiar
+1405,Salado Tradicional,Para Compartir Entre 2 Personas
+1406,Limón,Familiar
+1407,Dulce,Individual
+1408,Jalapeño,Para Compartir Entre 2 Personas
+1409,Barbacoa,Familiar
+1410,Caramelo,Tamaño Fiesta O Reunión
+1411,Jalapeño,Familiar
+1412,Barbacoa,Para Compartir Entre 2 Personas
+1413,Picante Chapín,Para Compartir Entre 2 Personas
+1414,Queso,Individual
+1415,No Indicado,Individual
+1416,Dulce,Tamaño Fiesta O Reunión
+1417,Dulce,Familiar
+1418,Jalapeño,Para Compartir Entre 2 Personas
+1419,Barbacoa,Para Compartir Entre 2 Personas
+1420,Picante Chapín,Tamaño Fiesta O Reunión
+1421,Salado Tradicional,Para Compartir Entre 2 Personas
+1422,Caramelo,Familiar
+2478,Salado Tradicional,Individual
+1424,Queso,Para Compartir Entre 2 Personas
+1425,Queso,Familiar
+1426,Picante Chapín,Familiar
+1427,Caramelo,Individual
+1428,Picante Chapín,Individual
+1429,Queso,Para Compartir Entre 2 Personas
+1430,Caramelo,Familiar
+1431,Dulce,Tamaño Fiesta O Reunión
+1432,Caramelo,Familiar
+1433,Queso,Para Compartir Entre 2 Personas
+1434,Limón,Individual
+1435,Queso,Familiar
+1436,Queso,Individual
+1437,Jalapeño,Familiar
+1438,Barbacoa,Familiar
+1439,Picante Chapín,Individual
+1440,Queso,Para Compartir Entre 2 Personas
+1441,Limón,Tamaño Fiesta O Reunión
+1442,Salado Tradicional,Tamaño Fiesta O Reunión
+1443,Queso,Para Compartir Entre 2 Personas
+1444,Salado Tradicional,Para Compartir Entre 2 Personas
+1445,Picante Chapín,Individual
+1446,Barbacoa,Tamaño Fiesta O Reunión
+1447,Dulce,Familiar
+1448,Limón,Familiar
+1449,Jalapeño,Para Compartir Entre 2 Personas
+1450,Limón,Para Compartir Entre 2 Personas
+1451,Dulce,Familiar
+1452,Jalapeño,Para Compartir Entre 2 Personas
+1453,Queso,Individual
+1454,Queso,Para Compartir Entre 2 Personas
+1455,Chocolate,Familiar
+1456,Barbacoa,Familiar
+1457,Salado Tradicional,Para Compartir Entre 2 Personas
+1458,Salado Tradicional,Para Compartir Entre 2 Personas
+927,Queso,Familiar
+1460,Barbacoa,Tamaño Fiesta O Reunión
+1461,Salado Tradicional,Familiar
+1462,Picante Chapín,Individual
+1463,Barbacoa,Para Compartir Entre 2 Personas
+1464,Barbacoa,Tamaño Fiesta O Reunión
+1465,Picante Chapín,Familiar
+1466,Chocolate,Familiar
+1467,Limón,Familiar
+1468,Queso,Para Compartir Entre 2 Personas
+1469,Caramelo,Individual
+1470,Salado Tradicional,Tamaño Fiesta O Reunión
+1471,Picante Chapín,Individual
+1472,Picante Chapín,Individual
+1473,Limón,Individual
+1474,Salado Tradicional,Para Compartir Entre 2 Personas
+1475,Chocolate,Para Compartir Entre 2 Personas
+1476,Limón,Tamaño Fiesta O Reunión
+1477,Chocolate,Individual
+1478,Salado Tradicional,Familiar
+1479,Limón,Familiar
+1480,Dulce,Para Compartir Entre 2 Personas
+1481,Queso,Individual
+1482,Salado Tradicional,Para Compartir Entre 2 Personas
+1483,Barbacoa,Para Compartir Entre 2 Personas
+1484,Queso,Para Compartir Entre 2 Personas
+1485,Jalapeño,Familiar
+1486,Limón,Individual
+1487,Jalapeño,Individual
+1488,Chocolate,Familiar
+1489,Dulce,Tamaño Fiesta O Reunión
+1490,Queso,Para Compartir Entre 2 Personas
+1491,Queso,Para Compartir Entre 2 Personas
+1492,Queso,Familiar
+1493,Barbacoa,Tamaño Fiesta O Reunión
+1494,Jalapeño,Para Compartir Entre 2 Personas
+1495,Salado Tradicional,Para Compartir Entre 2 Personas
+1496,Queso,Para Compartir Entre 2 Personas
+1497,Queso,Para Compartir Entre 2 Personas
+1498,Caramelo,Familiar
+1499,Barbacoa,Tamaño Fiesta O Reunión
+1500,Dulce,Familiar
+1501,Limón,Para Compartir Entre 2 Personas
+1502,Picante Chapín,Para Compartir Entre 2 Personas
+1503,Picante Chapín,Individual
+1504,Limón,Individual
+1505,Queso,Familiar
+1506,Chocolate,Para Compartir Entre 2 Personas
+1507,Limón,Para Compartir Entre 2 Personas
+1508,Limón,Individual
+1509,Barbacoa,Familiar
+1510,Picante Chapín,Familiar
+1511,Queso,Individual
+1512,Queso,Familiar
+1513,Jalapeño,Tamaño Fiesta O Reunión
+1514,Limón,Familiar
+1515,No Indicado,Tamaño Fiesta O Reunión
+1516,Picante Chapín,Familiar
+1517,Barbacoa,Familiar
+1518,Jalapeño,Familiar
+1519,Dulce,Individual
+1520,Jalapeño,Tamaño Fiesta O Reunión
+1521,Barbacoa,Individual
+1522,Limón,Individual
+1523,Queso,Tamaño Fiesta O Reunión
+1524,Picante Chapín,Familiar
+1525,Jalapeño,Para Compartir Entre 2 Personas
+1526,Caramelo,Familiar
+1527,Jalapeño,Para Compartir Entre 2 Personas
+1528,Barbacoa,Tamaño Fiesta O Reunión
+1529,Limón,Familiar
+1530,Jalapeño,Familiar
+1531,Chocolate,Individual
+1532,Jalapeño,Para Compartir Entre 2 Personas
+1533,Limón,Individual
+1534,Chocolate,Tamaño Fiesta O Reunión
+1535,Limón,Para Compartir Entre 2 Personas
+1536,Picante Chapín,Familiar
+1537,Picante Chapín,Para Compartir Entre 2 Personas
+1538,Salado Tradicional,Familiar
+1539,Queso,Tamaño Fiesta O Reunión
+1540,Jalapeño,Familiar
+1541,Limón,Tamaño Fiesta O Reunión
+1542,Jalapeño,Para Compartir Entre 2 Personas
+1543,Jalapeño,Individual
+1544,Dulce,Individual
+1545,Picante Chapín,Familiar
+1546,Chocolate,Individual
+1547,No Indicado,Familiar
+1548,Queso,Tamaño Fiesta O Reunión
+1549,Caramelo,Familiar
+1550,Salado Tradicional,Individual
+1551,Queso,Individual
+1552,Limón,Familiar
+1553,Queso,Individual
+1554,Chocolate,Para Compartir Entre 2 Personas
+1555,Limón,Individual
+1556,Jalapeño,Tamaño Fiesta O Reunión
+1557,Chocolate,Individual
+1558,Barbacoa,Para Compartir Entre 2 Personas
+1559,Salado Tradicional,Para Compartir Entre 2 Personas
+1560,Chocolate,Para Compartir Entre 2 Personas
+1561,Picante Chapín,Individual
+1562,Picante Chapín,Para Compartir Entre 2 Personas
+1563,Jalapeño,Familiar
+1564,Picante Chapín,Familiar
+1565,Queso,Tamaño Fiesta O Reunión
+1566,Chocolate,Familiar
+1567,Picante Chapín,Tamaño Fiesta O Reunión
+1568,Salado Tradicional,Para Compartir Entre 2 Personas
+1569,Picante Chapín,Individual
+1570,Limón,Tamaño Fiesta O Reunión
+1571,Barbacoa,Tamaño Fiesta O Reunión
+1572,Limón,Para Compartir Entre 2 Personas
+1573,Barbacoa,Para Compartir Entre 2 Personas
+1574,Limón,Familiar
+1575,Queso,Individual
+1576,Salado Tradicional,Para Compartir Entre 2 Personas
+1577,Limón,Individual
+1578,Chocolate,Para Compartir Entre 2 Personas
+1579,Salado Tradicional,Para Compartir Entre 2 Personas
+1580,Jalapeño,Familiar
+1581,Barbacoa,Tamaño Fiesta O Reunión
+1582,Queso,Individual
+1583,Jalapeño,Para Compartir Entre 2 Personas
+1584,Caramelo,Tamaño Fiesta O Reunión
+1585,Barbacoa,Tamaño Fiesta O Reunión
+1586,No Indicado,Familiar
+1587,Picante Chapín,Individual
+1588,Jalapeño,Tamaño Fiesta O Reunión
+1589,Jalapeño,Para Compartir Entre 2 Personas
+1590,Queso,Familiar
+1591,Limón,Familiar
+1592,Caramelo,Para Compartir Entre 2 Personas
+1593,Picante Chapín,Individual
+1594,Queso,Para Compartir Entre 2 Personas
+1595,Barbacoa,Familiar
+1596,Limón,Individual
+1597,Queso,Para Compartir Entre 2 Personas
+1598,Picante Chapín,Individual
+1599,Picante Chapín,Tamaño Fiesta O Reunión
+1600,Salado Tradicional,Familiar
+1601,Dulce,Para Compartir Entre 2 Personas
+1602,Picante Chapín,Familiar
+1603,Picante Chapín,Individual
+1604,Barbacoa,Para Compartir Entre 2 Personas
+1605,Queso,Familiar
+1606,Jalapeño,Tamaño Fiesta O Reunión
+1607,Picante Chapín,Tamaño Fiesta O Reunión
+1608,Dulce,Para Compartir Entre 2 Personas
+1609,Dulce,Individual
+1610,Dulce,Para Compartir Entre 2 Personas
+1611,Dulce,Familiar
+1612,Jalapeño,Tamaño Fiesta O Reunión
+1613,Chocolate,Individual
+1614,Barbacoa,Para Compartir Entre 2 Personas
+1615,Barbacoa,Familiar
+1616,Barbacoa,Familiar
+1617,Picante Chapín,Para Compartir Entre 2 Personas
+1618,Barbacoa,Individual
+1619,Barbacoa,Individual
+1620,Limón,Familiar
+1621,Salado Tradicional,Tamaño Fiesta O Reunión
+1622,Jalapeño,Familiar
+1623,Jalapeño,Tamaño Fiesta O Reunión
+1624,Chocolate,Para Compartir Entre 2 Personas
+1625,Barbacoa,Familiar
+1626,Chocolate,Para Compartir Entre 2 Personas
+1627,Jalapeño,Para Compartir Entre 2 Personas
+1628,Jalapeño,Tamaño Fiesta O Reunión
+1629,Barbacoa,Para Compartir Entre 2 Personas
+1630,Picante Chapín,Para Compartir Entre 2 Personas
+1631,Picante Chapín,Familiar
+1632,Chocolate,Tamaño Fiesta O Reunión
+1633,Limón,Tamaño Fiesta O Reunión
+1634,Picante Chapín,Individual
+1635,Barbacoa,Familiar
+1636,Picante Chapín,Tamaño Fiesta O Reunión
+1637,Barbacoa,Para Compartir Entre 2 Personas
+1638,Dulce,Familiar
+1639,Queso,Familiar
+1640,Barbacoa,Familiar
+1641,Picante Chapín,Para Compartir Entre 2 Personas
+1642,Chocolate,Para Compartir Entre 2 Personas
+1643,Barbacoa,Para Compartir Entre 2 Personas
+1644,Limón,Tamaño Fiesta O Reunión
+1645,Queso,Familiar
+1646,Barbacoa,Familiar
+1647,Jalapeño,Tamaño Fiesta O Reunión
+1648,Queso,Familiar
+1649,Barbacoa,Familiar
+1650,Queso,Individual
+1651,Picante Chapín,Individual
+1652,Chocolate,Familiar
+1653,Picante Chapín,Individual
+1654,Queso,Familiar
+1655,Barbacoa,Individual
+1656,Barbacoa,Familiar
+1657,Salado Tradicional,Familiar
+1658,Salado Tradicional,Familiar
+1659,Picante Chapín,Familiar
+1660,Queso,Individual
+1661,Limón,Individual
+1662,Chocolate,Para Compartir Entre 2 Personas
+1663,Picante Chapín,Familiar
+1664,Jalapeño,Para Compartir Entre 2 Personas
+1665,Dulce,Individual
+1666,Queso,Individual
+1667,Caramelo,Para Compartir Entre 2 Personas
+1668,Limón,Individual
+1669,Limón,Para Compartir Entre 2 Personas
+1670,Queso,Familiar
+1671,Jalapeño,Individual
+1672,Barbacoa,Tamaño Fiesta O Reunión
+1673,Dulce,Familiar
+1674,Queso,Para Compartir Entre 2 Personas
+1675,Limón,Para Compartir Entre 2 Personas
+1676,Picante Chapín,Familiar
+1677,Limón,Para Compartir Entre 2 Personas
+1678,Barbacoa,Para Compartir Entre 2 Personas
+1679,Jalapeño,Familiar
+1680,Dulce,Individual
+1681,Barbacoa,Para Compartir Entre 2 Personas
+1682,Dulce,Familiar
+1683,Picante Chapín,Tamaño Fiesta O Reunión
+1684,Picante Chapín,Individual
+1685,Limón,Para Compartir Entre 2 Personas
+1686,Dulce,Familiar
+1687,Chocolate,Individual
+1688,Barbacoa,Individual
+1689,Caramelo,Familiar
+1690,Queso,Familiar
+1691,Queso,Familiar
+1692,Picante Chapín,Tamaño Fiesta O Reunión
+1693,Picante Chapín,Individual
+1694,Salado Tradicional,Para Compartir Entre 2 Personas
+1695,Limón,Individual
+1696,Chocolate,Tamaño Fiesta O Reunión
+1697,Caramelo,Familiar
+1698,Dulce,Familiar
+1699,Caramelo,Individual
+1700,Jalapeño,Para Compartir Entre 2 Personas
+1701,Queso,Individual
+1702,Limón,Familiar
+1703,Barbacoa,Familiar
+1704,Caramelo,Tamaño Fiesta O Reunión
+1705,Limón,Familiar
+1706,Picante Chapín,Individual
+1707,Picante Chapín,Tamaño Fiesta O Reunión
+1708,Limón,Familiar
+1709,Salado Tradicional,Tamaño Fiesta O Reunión
+1710,Chocolate,Individual
+1711,Queso,Familiar
+1712,Barbacoa,Para Compartir Entre 2 Personas
+1713,Limón,Para Compartir Entre 2 Personas
+1714,Chocolate,Familiar
+1715,Barbacoa,Individual
+1716,Picante Chapín,Familiar
+1717,Queso,Individual
+1718,Barbacoa,Para Compartir Entre 2 Personas
+1719,Chocolate,Individual
+1720,Jalapeño,Para Compartir Entre 2 Personas
+1721,Queso,Familiar
+1722,Salado Tradicional,Familiar
+1723,Barbacoa,Familiar
+1724,Jalapeño,Familiar
+1725,Queso,Para Compartir Entre 2 Personas
+1726,Queso,Individual
+1727,Salado Tradicional,Para Compartir Entre 2 Personas
+1728,Limón,Familiar
+1729,Chocolate,Familiar
+1730,Dulce,Para Compartir Entre 2 Personas
+1731,Barbacoa,Individual
+1732,Barbacoa,Tamaño Fiesta O Reunión
+1733,Barbacoa,Individual
+1734,Jalapeño,Individual
+1735,Salado Tradicional,Para Compartir Entre 2 Personas
+1736,Chocolate,Para Compartir Entre 2 Personas
+1737,Chocolate,Individual
+1738,Picante Chapín,Para Compartir Entre 2 Personas
+1739,Barbacoa,Para Compartir Entre 2 Personas
+1740,Salado Tradicional,Individual
+1741,Salado Tradicional,Familiar
+1742,Barbacoa,Para Compartir Entre 2 Personas
+1743,Barbacoa,Tamaño Fiesta O Reunión
+1744,Salado Tradicional,Tamaño Fiesta O Reunión
+1745,Limón,Familiar
+1746,Salado Tradicional,Tamaño Fiesta O Reunión
+1747,Caramelo,Familiar
+1748,Jalapeño,Familiar
+1749,Jalapeño,Individual
+1750,Dulce,Familiar
+1751,Salado Tradicional,Familiar
+1752,Picante Chapín,Para Compartir Entre 2 Personas
+1753,No Indicado,Tamaño Fiesta O Reunión
+1754,Limón,Tamaño Fiesta O Reunión
+1755,Queso,Individual
+1756,Jalapeño,Familiar
+1757,Jalapeño,Para Compartir Entre 2 Personas
+1758,Chocolate,Para Compartir Entre 2 Personas
+1759,Chocolate,Para Compartir Entre 2 Personas
+1760,Dulce,Familiar
+1761,Caramelo,Tamaño Fiesta O Reunión
+1762,Barbacoa,Individual
+1763,Limón,Familiar
+1764,Barbacoa,Familiar
+1765,Caramelo,Familiar
+1766,Picante Chapín,Tamaño Fiesta O Reunión
+1767,Barbacoa,Para Compartir Entre 2 Personas
+1768,Dulce,Individual
+1769,Chocolate,Para Compartir Entre 2 Personas
+1770,Queso,Individual
+1771,Caramelo,Familiar
+1772,Picante Chapín,Tamaño Fiesta O Reunión
+559,Queso,Para Compartir Entre 2 Personas
+1774,Queso,Familiar
+1775,Queso,Para Compartir Entre 2 Personas
+1776,Queso,Familiar
+1777,Queso,Familiar
+1778,Jalapeño,Individual
+1779,Limón,Para Compartir Entre 2 Personas
+1780,Barbacoa,Familiar
+1781,Queso,Tamaño Fiesta O Reunión
+1782,Barbacoa,Individual
+1783,Picante Chapín,Familiar
+1784,Salado Tradicional,Individual
+1785,Barbacoa,Tamaño Fiesta O Reunión
+1786,Barbacoa,Para Compartir Entre 2 Personas
+1787,Jalapeño,Familiar
+1788,Queso,Familiar
+1789,Picante Chapín,Para Compartir Entre 2 Personas
+1790,Picante Chapín,Individual
+1791,Limón,Tamaño Fiesta O Reunión
+1792,Barbacoa,Individual
+1793,Barbacoa,Familiar
+1794,Limón,Familiar
+1795,Queso,Tamaño Fiesta O Reunión
+1796,Barbacoa,Familiar
+1797,Salado Tradicional,Tamaño Fiesta O Reunión
+1798,Barbacoa,Familiar
+1799,Queso,Familiar
+1800,Queso,Para Compartir Entre 2 Personas
+1801,Queso,Familiar
+1802,Barbacoa,Para Compartir Entre 2 Personas
+1803,Limón,Individual
+1804,Barbacoa,Familiar
+1805,Queso,Individual
+1806,Picante Chapín,Para Compartir Entre 2 Personas
+1807,Barbacoa,Familiar
+1808,Picante Chapín,Para Compartir Entre 2 Personas
+1809,Queso,Tamaño Fiesta O Reunión
+1810,Salado Tradicional,Individual
+1811,Chocolate,Familiar
+1812,Picante Chapín,Familiar
+1813,Caramelo,Tamaño Fiesta O Reunión
+1814,Picante Chapín,Individual
+1815,Limón,Familiar
+1816,Picante Chapín,Tamaño Fiesta O Reunión
+1817,Barbacoa,Familiar
+1818,Jalapeño,Para Compartir Entre 2 Personas
+1819,Queso,Tamaño Fiesta O Reunión
+1820,Queso,Para Compartir Entre 2 Personas
+1821,Salado Tradicional,Familiar
+1822,Caramelo,Tamaño Fiesta O Reunión
+1823,Barbacoa,Para Compartir Entre 2 Personas
+1824,Picante Chapín,Familiar
+1825,Queso,Tamaño Fiesta O Reunión
+1826,Barbacoa,Individual
+1827,Jalapeño,Para Compartir Entre 2 Personas
+1828,Queso,Para Compartir Entre 2 Personas
+1829,Chocolate,Individual
+1830,Salado Tradicional,Para Compartir Entre 2 Personas
+1831,Jalapeño,Familiar
+1832,Jalapeño,Para Compartir Entre 2 Personas
+1833,Barbacoa,Individual
+1834,Jalapeño,Familiar
+1835,Picante Chapín,Individual
+1836,Picante Chapín,Para Compartir Entre 2 Personas
+1837,Limón,Individual
+1838,Chocolate,Familiar
+1839,Salado Tradicional,Tamaño Fiesta O Reunión
+1840,Jalapeño,Familiar
+1841,Picante Chapín,Individual
+1842,Salado Tradicional,Tamaño Fiesta O Reunión
+1843,Queso,Tamaño Fiesta O Reunión
+1844,Limón,Individual
+1845,Jalapeño,Familiar
+1846,Jalapeño,Para Compartir Entre 2 Personas
+1847,Queso,Familiar
+1848,Limón,Familiar
+1849,Dulce,Familiar
+1850,Barbacoa,Para Compartir Entre 2 Personas
+1851,Barbacoa,Familiar
+1852,Barbacoa,Tamaño Fiesta O Reunión
+1853,Limón,Individual
+1854,Picante Chapín,Para Compartir Entre 2 Personas
+1855,Barbacoa,Individual
+1856,Limón,Familiar
+1857,Queso,Tamaño Fiesta O Reunión
+1858,Barbacoa,Individual
+1859,Jalapeño,Para Compartir Entre 2 Personas
+1860,Jalapeño,Familiar
+1861,Dulce,Tamaño Fiesta O Reunión
+1862,Barbacoa,Individual
+1863,Limón,Tamaño Fiesta O Reunión
+1864,Salado Tradicional,Tamaño Fiesta O Reunión
+1865,Queso,Tamaño Fiesta O Reunión
+1866,Jalapeño,Tamaño Fiesta O Reunión
+1867,Barbacoa,Tamaño Fiesta O Reunión
+1868,Picante Chapín,Individual
+1869,Dulce,Familiar
+1870,Jalapeño,Para Compartir Entre 2 Personas
+1871,Picante Chapín,Tamaño Fiesta O Reunión
+1872,Limón,Tamaño Fiesta O Reunión
+1873,Limón,Familiar
+1874,Picante Chapín,Familiar
+1875,Limón,Individual
+1876,Chocolate,Familiar
+1877,Picante Chapín,Familiar
+1878,Caramelo,Individual
+1879,Picante Chapín,Para Compartir Entre 2 Personas
+1880,Jalapeño,Tamaño Fiesta O Reunión
+1881,Picante Chapín,Individual
+1882,Barbacoa,Familiar
+1883,Picante Chapín,Tamaño Fiesta O Reunión
+1884,Salado Tradicional,Familiar
+1885,Limón,Individual
+1886,Picante Chapín,Para Compartir Entre 2 Personas
+1887,Limón,Familiar
+1888,Limón,Familiar
+1889,Jalapeño,Familiar
+1890,Queso,Individual
+1891,Barbacoa,Familiar
+1892,Salado Tradicional,Para Compartir Entre 2 Personas
+1893,Limón,Para Compartir Entre 2 Personas
+1894,Dulce,Individual
+1895,Queso,Tamaño Fiesta O Reunión
+1896,Queso,Para Compartir Entre 2 Personas
+1897,Salado Tradicional,Individual
+1898,Queso,Tamaño Fiesta O Reunión
+1899,Salado Tradicional,Familiar
+1900,Queso,Familiar
+1901,Barbacoa,Para Compartir Entre 2 Personas
+1902,Queso,Individual
+1903,Caramelo,Para Compartir Entre 2 Personas
+1904,Barbacoa,Para Compartir Entre 2 Personas
+1905,Jalapeño,Familiar
+1906,Queso,Tamaño Fiesta O Reunión
+1907,No Indicado,Para Compartir Entre 2 Personas
+1908,Queso,Tamaño Fiesta O Reunión
+1909,Picante Chapín,Familiar
+1910,Queso,Familiar
+1911,Barbacoa,Familiar
+1912,Queso,Para Compartir Entre 2 Personas
+1913,Picante Chapín,Para Compartir Entre 2 Personas
+1914,Queso,Tamaño Fiesta O Reunión
+1915,Dulce,Tamaño Fiesta O Reunión
+1916,Queso,Para Compartir Entre 2 Personas
+1917,Jalapeño,Para Compartir Entre 2 Personas
+1918,Queso,Tamaño Fiesta O Reunión
+1919,Picante Chapín,Para Compartir Entre 2 Personas
+1920,Jalapeño,Familiar
+1921,Jalapeño,Para Compartir Entre 2 Personas
+1922,Queso,Familiar
+1923,Barbacoa,Individual
+1924,Jalapeño,Familiar
+1925,Queso,Para Compartir Entre 2 Personas
+1926,Chocolate,Tamaño Fiesta O Reunión
+1927,Queso,Individual
+1928,Caramelo,Familiar
+1929,Barbacoa,Familiar
+1930,Queso,Tamaño Fiesta O Reunión
+1127,Picante Chapín,Individual
+1932,Barbacoa,Familiar
+1933,Limón,Familiar
+1934,Chocolate,Individual
+1935,Barbacoa,Familiar
+1936,Jalapeño,Tamaño Fiesta O Reunión
+1937,Queso,Familiar
+1938,Picante Chapín,Para Compartir Entre 2 Personas
+1939,Chocolate,Para Compartir Entre 2 Personas
+1940,Barbacoa,Familiar
+1941,Picante Chapín,Para Compartir Entre 2 Personas
+1942,Picante Chapín,Tamaño Fiesta O Reunión
+1943,Dulce,Para Compartir Entre 2 Personas
+1944,Queso,Individual
+1945,Barbacoa,Individual
+1946,Dulce,Para Compartir Entre 2 Personas
+1947,Queso,Tamaño Fiesta O Reunión
+1948,Salado Tradicional,Individual
+1949,Dulce,Familiar
+1950,Jalapeño,Familiar
+1951,Barbacoa,Individual
+1952,Salado Tradicional,Familiar
+1953,Chocolate,Familiar
+1954,Limón,Individual
+1955,Barbacoa,Familiar
+1956,Barbacoa,Individual
+1957,Chocolate,Familiar
+1958,Caramelo,Individual
+1959,Jalapeño,Tamaño Fiesta O Reunión
+1960,Jalapeño,Tamaño Fiesta O Reunión
+1961,Queso,Para Compartir Entre 2 Personas
+1962,Limón,Individual
+1963,Barbacoa,Para Compartir Entre 2 Personas
+1964,Picante Chapín,Para Compartir Entre 2 Personas
+1965,Picante Chapín,Para Compartir Entre 2 Personas
+1966,Barbacoa,Individual
+1967,Dulce,Individual
+1968,Chocolate,Individual
+1969,Limón,Para Compartir Entre 2 Personas
+1970,Barbacoa,Individual
+1971,Jalapeño,Individual
+1972,Picante Chapín,Tamaño Fiesta O Reunión
+1973,Caramelo,Familiar
+1974,Queso,Familiar
+1975,Picante Chapín,Familiar
+1976,Limón,Para Compartir Entre 2 Personas
+1977,Jalapeño,Familiar
+1978,Limón,Tamaño Fiesta O Reunión
+1979,Limón,Para Compartir Entre 2 Personas
+1980,Queso,Para Compartir Entre 2 Personas
+1981,Queso,Tamaño Fiesta O Reunión
+1982,Limón,Familiar
+1983,Salado Tradicional,Individual
+1984,Dulce,Tamaño Fiesta O Reunión
+1985,Barbacoa,Para Compartir Entre 2 Personas
+1986,Chocolate,Familiar
+1987,Picante Chapín,Familiar
+1988,Barbacoa,Familiar
+1989,Queso,Familiar
+1990,Queso,Tamaño Fiesta O Reunión
+1991,Jalapeño,Para Compartir Entre 2 Personas
+1992,Barbacoa,Para Compartir Entre 2 Personas
+1993,Limón,Tamaño Fiesta O Reunión
+1994,Picante Chapín,Individual
+1995,Jalapeño,Tamaño Fiesta O Reunión
+1996,Queso,Individual
+1997,Jalapeño,Individual
+1998,Limón,Familiar
+1999,Picante Chapín,Para Compartir Entre 2 Personas
+2000,Salado Tradicional,Familiar
+2001,Limón,Tamaño Fiesta O Reunión
+2002,Barbacoa,Individual
+2003,Limón,Para Compartir Entre 2 Personas
+2004,Picante Chapín,Individual
+2005,Caramelo,Para Compartir Entre 2 Personas
+2006,Chocolate,Familiar
+2007,Chocolate,Tamaño Fiesta O Reunión
+2008,Queso,Para Compartir Entre 2 Personas
+2009,Barbacoa,Para Compartir Entre 2 Personas
+2010,Barbacoa,Tamaño Fiesta O Reunión
+2011,Salado Tradicional,Familiar
+2012,Jalapeño,Familiar
+2013,Dulce,Familiar
+2014,Barbacoa,Individual
+2015,Jalapeño,Individual
+2016,Barbacoa,Tamaño Fiesta O Reunión
+2017,Barbacoa,Individual
+2018,Barbacoa,Para Compartir Entre 2 Personas
+2019,No Indicado,Individual
+2020,Picante Chapín,Tamaño Fiesta O Reunión
+2021,Picante Chapín,Para Compartir Entre 2 Personas
+2022,Caramelo,Tamaño Fiesta O Reunión
+2023,Chocolate,Individual
+2024,Barbacoa,Familiar
+2025,Jalapeño,Familiar
+2026,Jalapeño,Para Compartir Entre 2 Personas
+2027,Queso,Individual
+2028,Jalapeño,Para Compartir Entre 2 Personas
+2029,Jalapeño,Para Compartir Entre 2 Personas
+2030,Salado Tradicional,Familiar
+2031,Picante Chapín,Para Compartir Entre 2 Personas
+2032,Limón,Familiar
+2033,Barbacoa,Familiar
+2034,Limón,Individual
+2035,Dulce,Para Compartir Entre 2 Personas
+2036,Barbacoa,Tamaño Fiesta O Reunión
+2037,Dulce,Para Compartir Entre 2 Personas
+2038,Limón,Para Compartir Entre 2 Personas
+2039,Jalapeño,Para Compartir Entre 2 Personas
+2040,Dulce,Individual
+2041,Queso,Familiar
+2042,Picante Chapín,Para Compartir Entre 2 Personas
+2043,Jalapeño,Individual
+2044,Jalapeño,Para Compartir Entre 2 Personas
+2045,Salado Tradicional,Familiar
+2046,Queso,Para Compartir Entre 2 Personas
+2047,Barbacoa,Para Compartir Entre 2 Personas
+2048,Jalapeño,Familiar
+2049,Limón,Familiar
+2050,Queso,Tamaño Fiesta O Reunión
+2051,Picante Chapín,Familiar
+2052,Jalapeño,Familiar
+2053,Jalapeño,Tamaño Fiesta O Reunión
+2054,Queso,Familiar
+2055,Picante Chapín,Para Compartir Entre 2 Personas
+2056,Limón,Familiar
+2057,Jalapeño,Para Compartir Entre 2 Personas
+2058,Queso,Familiar
+2059,Caramelo,Familiar
+2060,Queso,Tamaño Fiesta O Reunión
+2061,Salado Tradicional,Familiar
+2062,Queso,Para Compartir Entre 2 Personas
+2063,Queso,Familiar
+2064,Jalapeño,Familiar
+2065,Queso,Individual
+2066,Barbacoa,Para Compartir Entre 2 Personas
+2067,Salado Tradicional,Para Compartir Entre 2 Personas
+2068,Queso,Familiar
+2069,Chocolate,Individual
+2070,Queso,Para Compartir Entre 2 Personas
+2071,Chocolate,Tamaño Fiesta O Reunión
+2072,Limón,Familiar
+2073,Chocolate,Familiar
+2074,Jalapeño,Familiar
+2075,Picante Chapín,Para Compartir Entre 2 Personas
+2076,Queso,Tamaño Fiesta O Reunión
+2077,Caramelo,Individual
+2078,Limón,Individual
+2079,Queso,Familiar
+2080,Caramelo,Familiar
+2081,Picante Chapín,Tamaño Fiesta O Reunión
+2082,Picante Chapín,Familiar
+2083,Barbacoa,Familiar
+2084,Caramelo,Para Compartir Entre 2 Personas
+2085,Queso,Para Compartir Entre 2 Personas
+2086,Barbacoa,Familiar
+2087,Chocolate,Familiar
+2088,Dulce,Familiar
+638,Picante Chapín,Familiar
+2090,Picante Chapín,Para Compartir Entre 2 Personas
+2091,Limón,Individual
+2092,Picante Chapín,Para Compartir Entre 2 Personas
+2093,Picante Chapín,Tamaño Fiesta O Reunión
+2094,Queso,Individual
+2095,Dulce,Familiar
+2096,Picante Chapín,Individual
+2097,Queso,Familiar
+2098,Limón,Tamaño Fiesta O Reunión
+2099,Barbacoa,Familiar
+2100,Jalapeño,Tamaño Fiesta O Reunión
+2101,Picante Chapín,Familiar
+2102,Queso,Para Compartir Entre 2 Personas
+2103,No Indicado,Para Compartir Entre 2 Personas
+2104,Queso,Para Compartir Entre 2 Personas
+2105,Barbacoa,Para Compartir Entre 2 Personas
+2106,Chocolate,Para Compartir Entre 2 Personas
+2107,No Indicado,Individual
+2108,Jalapeño,Individual
+2109,Chocolate,Tamaño Fiesta O Reunión
+2110,Barbacoa,Individual
+2111,Chocolate,Para Compartir Entre 2 Personas
+2112,Picante Chapín,Tamaño Fiesta O Reunión
+2113,Picante Chapín,Para Compartir Entre 2 Personas
+2114,Dulce,Individual
+2115,Chocolate,Familiar
+2116,Chocolate,Para Compartir Entre 2 Personas
+2117,Queso,Para Compartir Entre 2 Personas
+2118,Salado Tradicional,Familiar
+2119,Limón,Individual
+2120,Limón,Para Compartir Entre 2 Personas
+2121,Caramelo,Para Compartir Entre 2 Personas
+2122,Dulce,Para Compartir Entre 2 Personas
+2123,Queso,Para Compartir Entre 2 Personas
+2124,Barbacoa,Familiar
+2125,Picante Chapín,Para Compartir Entre 2 Personas
+2126,Jalapeño,Familiar
+2127,Barbacoa,Tamaño Fiesta O Reunión
+2128,Chocolate,Familiar
+2129,Barbacoa,Tamaño Fiesta O Reunión
+2130,Chocolate,Tamaño Fiesta O Reunión
+2131,Chocolate,Tamaño Fiesta O Reunión
+2132,Limón,Familiar
+2133,Picante Chapín,Familiar
+2134,Chocolate,Familiar
+2135,Picante Chapín,Individual
+2136,Limón,Familiar
+2137,Queso,Familiar
+2138,Chocolate,Tamaño Fiesta O Reunión
+2139,Queso,Individual
+2140,Salado Tradicional,Para Compartir Entre 2 Personas
+2141,No Indicado,Para Compartir Entre 2 Personas
+2142,Jalapeño,Tamaño Fiesta O Reunión
+2143,Barbacoa,Familiar
+2144,Queso,Familiar
+2145,Queso,Individual
+2146,Barbacoa,Para Compartir Entre 2 Personas
+2147,Jalapeño,Individual
+2148,Salado Tradicional,Para Compartir Entre 2 Personas
+2149,Limón,Individual
+2150,Queso,Familiar
+2151,Jalapeño,Familiar
+2152,Dulce,Familiar
+2153,Caramelo,Para Compartir Entre 2 Personas
+2154,Salado Tradicional,Familiar
+2155,Queso,Individual
+2156,Salado Tradicional,Familiar
+2157,Jalapeño,Familiar
+2158,Chocolate,Familiar
+2159,Queso,Familiar
+2160,Queso,Tamaño Fiesta O Reunión
+2161,Salado Tradicional,Familiar
+2162,Caramelo,Individual
+2163,Queso,Individual
+2164,Picante Chapín,Familiar
+2165,Limón,Para Compartir Entre 2 Personas
+2166,Queso,Para Compartir Entre 2 Personas
+2167,Salado Tradicional,Familiar
+2168,Chocolate,Familiar
+2169,Jalapeño,Para Compartir Entre 2 Personas
+2170,Chocolate,Familiar
+2171,Limón,Familiar
+2172,Picante Chapín,Familiar
+2173,Picante Chapín,Tamaño Fiesta O Reunión
+2174,Picante Chapín,Familiar
+2175,Barbacoa,Para Compartir Entre 2 Personas
+2176,Picante Chapín,Familiar
+2177,Barbacoa,Individual
+2178,Barbacoa,Para Compartir Entre 2 Personas
+2179,Limón,Para Compartir Entre 2 Personas
+2180,Salado Tradicional,Tamaño Fiesta O Reunión
+2181,Jalapeño,Tamaño Fiesta O Reunión
+2182,Jalapeño,Para Compartir Entre 2 Personas
+2183,Limón,Familiar
+2184,Chocolate,Para Compartir Entre 2 Personas
+2185,Jalapeño,Individual
+2186,Salado Tradicional,Individual
+2187,Limón,Familiar
+2188,Picante Chapín,Para Compartir Entre 2 Personas
+2189,Picante Chapín,Familiar
+2190,Queso,Individual
+2191,Barbacoa,Tamaño Fiesta O Reunión
+2192,Queso,Tamaño Fiesta O Reunión
+2193,Dulce,Familiar
+2194,Barbacoa,Individual
+2195,Jalapeño,Para Compartir Entre 2 Personas
+2196,Queso,Tamaño Fiesta O Reunión
+2197,Queso,Para Compartir Entre 2 Personas
+2198,Dulce,Individual
+2199,Queso,Familiar
+2200,Picante Chapín,Familiar
+2201,Dulce,Familiar
+2202,Jalapeño,Individual
+2203,Barbacoa,Familiar
+2204,Picante Chapín,Individual
+2205,Picante Chapín,Para Compartir Entre 2 Personas
+2206,Caramelo,Individual
+2207,Dulce,Familiar
+2208,Dulce,Tamaño Fiesta O Reunión
+2209,Barbacoa,Tamaño Fiesta O Reunión
+2210,Limón,Tamaño Fiesta O Reunión
+2211,Queso,Individual
+2212,Queso,Para Compartir Entre 2 Personas
+2213,Queso,Familiar
+2214,Dulce,Individual
+2215,Limón,Familiar
+2216,Jalapeño,Para Compartir Entre 2 Personas
+2217,Dulce,Familiar
+2218,Barbacoa,Tamaño Fiesta O Reunión
+2219,Queso,Tamaño Fiesta O Reunión
+2220,Barbacoa,Para Compartir Entre 2 Personas
+2221,Queso,Familiar
+2222,Jalapeño,Familiar
+2223,Barbacoa,Familiar
+2224,Salado Tradicional,Tamaño Fiesta O Reunión
+2225,Picante Chapín,Individual
+2226,Jalapeño,Tamaño Fiesta O Reunión
+2227,Jalapeño,Individual
+2228,Queso,Para Compartir Entre 2 Personas
+2229,Chocolate,Familiar
+2230,Limón,Familiar
+2231,Queso,Individual
+2232,Barbacoa,Familiar
+2233,Dulce,Individual
+2234,Barbacoa,Familiar
+2235,Queso,Familiar
+2236,Chocolate,Para Compartir Entre 2 Personas
+2237,Picante Chapín,Para Compartir Entre 2 Personas
+2238,Limón,Tamaño Fiesta O Reunión
+2239,Barbacoa,Tamaño Fiesta O Reunión
+2240,Barbacoa,Individual
+2241,Jalapeño,Para Compartir Entre 2 Personas
+2242,Chocolate,Individual
+2243,Picante Chapín,Individual
+2244,Chocolate,Familiar
+2245,Jalapeño,Familiar
+2246,Barbacoa,Familiar
+2247,Barbacoa,Para Compartir Entre 2 Personas
+2248,Picante Chapín,Individual
+2249,Barbacoa,Familiar
+2250,Limón,Individual
+2251,Queso,Familiar
+2252,Limón,Individual
+2253,Barbacoa,Familiar
+2254,Queso,Familiar
+2255,Salado Tradicional,Individual
+2256,Limón,Familiar
+2257,Caramelo,Individual
+2258,Picante Chapín,Para Compartir Entre 2 Personas
+2259,Chocolate,Para Compartir Entre 2 Personas
+2260,Picante Chapín,Familiar
+2261,Limón,Familiar
+2262,Picante Chapín,Individual
+2263,Jalapeño,Familiar
+2264,Picante Chapín,Para Compartir Entre 2 Personas
+2265,Barbacoa,Individual
+2266,Barbacoa,Para Compartir Entre 2 Personas
+2267,Chocolate,Individual
+2268,Queso,Tamaño Fiesta O Reunión
+2269,Limón,Familiar
+2270,Barbacoa,Familiar
+2271,Dulce,Para Compartir Entre 2 Personas
+2272,Jalapeño,Familiar
+2273,Dulce,Tamaño Fiesta O Reunión
+2274,Jalapeño,Individual
+2275,Salado Tradicional,Individual
+2276,Caramelo,Familiar
+2277,Queso,Para Compartir Entre 2 Personas
+2278,Chocolate,Familiar
+2279,Salado Tradicional,Para Compartir Entre 2 Personas
+2280,Chocolate,Familiar
+2281,Picante Chapín,Para Compartir Entre 2 Personas
+2282,Picante Chapín,Para Compartir Entre 2 Personas
+2283,Limón,Tamaño Fiesta O Reunión
+2284,Limón,Tamaño Fiesta O Reunión
+2285,Barbacoa,Familiar
+2286,Picante Chapín,Familiar
+2287,Picante Chapín,Familiar
+2288,Picante Chapín,Tamaño Fiesta O Reunión
+2289,Salado Tradicional,Para Compartir Entre 2 Personas
+2290,Queso,Tamaño Fiesta O Reunión
+2291,Salado Tradicional,Para Compartir Entre 2 Personas
+2292,Caramelo,Tamaño Fiesta O Reunión
+2293,Barbacoa,Individual
+2294,Queso,Familiar
+2295,Chocolate,Familiar
+2296,Caramelo,Individual
+2297,Chocolate,Individual
+2298,Picante Chapín,Individual
+2299,Jalapeño,Para Compartir Entre 2 Personas
+2300,Picante Chapín,Tamaño Fiesta O Reunión
+2301,Barbacoa,Individual
+2302,Caramelo,Familiar
+2303,Picante Chapín,Familiar
+2304,Chocolate,Individual
+2305,Jalapeño,Familiar
+2306,Dulce,Tamaño Fiesta O Reunión
+2307,Limón,Familiar
+2308,Queso,Familiar
+2309,Salado Tradicional,Para Compartir Entre 2 Personas
+2310,Barbacoa,Tamaño Fiesta O Reunión
+2311,Chocolate,Familiar
+2312,Queso,Familiar
+2313,Queso,Familiar
+2314,Queso,Para Compartir Entre 2 Personas
+2315,Limón,Individual
+2316,Picante Chapín,Para Compartir Entre 2 Personas
+2317,Chocolate,Para Compartir Entre 2 Personas
+2318,Salado Tradicional,Individual
+2319,Picante Chapín,Para Compartir Entre 2 Personas
+2320,Queso,Para Compartir Entre 2 Personas
+2321,Salado Tradicional,Para Compartir Entre 2 Personas
+2322,Queso,Individual
+2323,Salado Tradicional,Para Compartir Entre 2 Personas
+2324,Chocolate,Familiar
+2325,Dulce,Para Compartir Entre 2 Personas
+2326,Limón,Familiar
+2327,Queso,Individual
+2328,Queso,Familiar
+2329,Limón,Familiar
+2174,Picante Chapín,Familiar
+2331,Chocolate,Individual
+2332,Salado Tradicional,Individual
+2333,Salado Tradicional,Para Compartir Entre 2 Personas
+2334,Jalapeño,Individual
+2335,Queso,Familiar
+2336,Chocolate,Para Compartir Entre 2 Personas
+2337,Queso,Tamaño Fiesta O Reunión
+2338,Jalapeño,Familiar
+2339,Chocolate,Individual
+2340,Barbacoa,Familiar
+2341,Picante Chapín,Tamaño Fiesta O Reunión
+2342,Picante Chapín,Familiar
+2343,Limón,Para Compartir Entre 2 Personas
+2344,Salado Tradicional,Tamaño Fiesta O Reunión
+2345,Picante Chapín,Individual
+2346,Caramelo,Familiar
+2347,Salado Tradicional,Para Compartir Entre 2 Personas
+2348,Chocolate,Para Compartir Entre 2 Personas
+2349,Barbacoa,Individual
+2350,Jalapeño,Individual
+2351,Limón,Familiar
+2352,Chocolate,Individual
+2353,Barbacoa,Familiar
+2354,Picante Chapín,Tamaño Fiesta O Reunión
+2355,Picante Chapín,Familiar
+2356,Jalapeño,Para Compartir Entre 2 Personas
+2357,Caramelo,Para Compartir Entre 2 Personas
+2358,Limón,Familiar
+2359,Limón,Tamaño Fiesta O Reunión
+2360,Jalapeño,Tamaño Fiesta O Reunión
+2361,Jalapeño,Individual
+2362,Barbacoa,Individual
+2363,Queso,Tamaño Fiesta O Reunión
+2364,Barbacoa,Para Compartir Entre 2 Personas
+2365,Picante Chapín,Individual
+2366,Jalapeño,Individual
+2367,Picante Chapín,Familiar
+2368,Caramelo,Familiar
+2369,Picante Chapín,Familiar
+2370,Barbacoa,Familiar
+2371,Chocolate,Para Compartir Entre 2 Personas
+2372,Jalapeño,Individual
+2373,Caramelo,Familiar
+2374,Limón,Familiar
+2375,Queso,Tamaño Fiesta O Reunión
+2376,Picante Chapín,Individual
+2377,Chocolate,Familiar
+2378,Dulce,Tamaño Fiesta O Reunión
+2379,Limón,Individual
+2380,Salado Tradicional,Individual
+2381,Queso,Tamaño Fiesta O Reunión
+2382,Barbacoa,Para Compartir Entre 2 Personas
+2383,Picante Chapín,Para Compartir Entre 2 Personas
+2384,Picante Chapín,Familiar
+2385,Picante Chapín,Familiar
+2386,Dulce,Para Compartir Entre 2 Personas
+2387,Barbacoa,Para Compartir Entre 2 Personas
+2388,Picante Chapín,Individual
+2389,Picante Chapín,Individual
+2390,Barbacoa,Individual
+2391,Barbacoa,Individual
+2392,Queso,Tamaño Fiesta O Reunión
+2393,Picante Chapín,Para Compartir Entre 2 Personas
+2394,Queso,Tamaño Fiesta O Reunión
+2395,Queso,Individual
+2396,Picante Chapín,Familiar
+2397,Jalapeño,Para Compartir Entre 2 Personas
+2398,Queso,Para Compartir Entre 2 Personas
+2399,Limón,Tamaño Fiesta O Reunión
+2400,Barbacoa,Familiar
+2401,Chocolate,Familiar
+2402,Chocolate,Familiar
+2403,Queso,Individual
+2404,Picante Chapín,Para Compartir Entre 2 Personas
+2405,Queso,Individual
+2406,Queso,Familiar
+2407,Dulce,Para Compartir Entre 2 Personas
+2408,Chocolate,Familiar
+2409,Queso,Tamaño Fiesta O Reunión
+2410,Picante Chapín,Individual
+2411,Jalapeño,Tamaño Fiesta O Reunión
+2412,Picante Chapín,Tamaño Fiesta O Reunión
+2413,Caramelo,Para Compartir Entre 2 Personas
+2414,Dulce,Individual
+2415,Barbacoa,Familiar
+2416,Salado Tradicional,Individual
+2417,Jalapeño,Individual
+2418,Barbacoa,Individual
+2419,Chocolate,Individual
+2420,Dulce,Tamaño Fiesta O Reunión
+2421,Picante Chapín,Para Compartir Entre 2 Personas
+2422,No Indicado,Familiar
+2423,No Indicado,Individual
+2424,Picante Chapín,Individual
+2425,Jalapeño,Tamaño Fiesta O Reunión
+2426,Picante Chapín,Familiar
+2427,Barbacoa,Familiar
+2428,Limón,Individual
+2429,Salado Tradicional,Familiar
+2430,Salado Tradicional,Tamaño Fiesta O Reunión
+2431,Picante Chapín,Familiar
+2432,Limón,Familiar
+2433,Picante Chapín,Familiar
+2434,Picante Chapín,Familiar
+2435,Picante Chapín,Tamaño Fiesta O Reunión
+2436,Queso,Individual
+2437,Jalapeño,Para Compartir Entre 2 Personas
+2438,Barbacoa,Para Compartir Entre 2 Personas
+2439,Dulce,Familiar
+2440,Queso,Familiar
+2441,Barbacoa,Individual
+2442,Queso,Familiar
+2443,Caramelo,Familiar
+2444,Limón,Familiar
+2445,Limón,Tamaño Fiesta O Reunión
+2446,Chocolate,Familiar
+2447,Limón,Familiar
+2448,Chocolate,Tamaño Fiesta O Reunión
+2449,Queso,Tamaño Fiesta O Reunión
+2450,Limón,Familiar
+2451,Barbacoa,Individual
+2452,Dulce,Para Compartir Entre 2 Personas
+2453,Jalapeño,Individual
+2454,Queso,Familiar
+2455,Picante Chapín,Tamaño Fiesta O Reunión
+2456,Barbacoa,Individual
+2457,Salado Tradicional,Familiar
+2458,Picante Chapín,Familiar
+2459,Jalapeño,Familiar
+2460,Picante Chapín,Para Compartir Entre 2 Personas
+2461,Salado Tradicional,Para Compartir Entre 2 Personas
+2462,Salado Tradicional,Para Compartir Entre 2 Personas
+2463,Queso,Individual
+2464,Picante Chapín,Familiar
+2465,Chocolate,Para Compartir Entre 2 Personas
+2466,Queso,Para Compartir Entre 2 Personas
+2467,Jalapeño,Individual
+2468,Barbacoa,Individual
+2469,Barbacoa,Individual
+2470,Jalapeño,Tamaño Fiesta O Reunión
+2471,Queso,Para Compartir Entre 2 Personas
+2472,Barbacoa,Individual
+2473,Caramelo,Tamaño Fiesta O Reunión
+2474,Chocolate,Tamaño Fiesta O Reunión
+2475,Salado Tradicional,Para Compartir Entre 2 Personas
+2476,Queso,Para Compartir Entre 2 Personas
+2477,Chocolate,Para Compartir Entre 2 Personas
+2478,Salado Tradicional,Individual
+2479,Limón,Familiar
+2480,Queso,Familiar
+2481,Salado Tradicional,Familiar
+2482,Queso,Familiar
+2483,Limón,Familiar
+2484,Jalapeño,Tamaño Fiesta O Reunión
+2485,Dulce,Tamaño Fiesta O Reunión
+2486,Jalapeño,Familiar
+2487,Queso,Para Compartir Entre 2 Personas
+2488,Caramelo,Para Compartir Entre 2 Personas
+2489,Barbacoa,Familiar
+2490,Salado Tradicional,Para Compartir Entre 2 Personas
+2491,Dulce,Tamaño Fiesta O Reunión
+2492,Barbacoa,Para Compartir Entre 2 Personas
+2493,Queso,Individual
+2494,Picante Chapín,Para Compartir Entre 2 Personas
+2495,Chocolate,Familiar
+2496,Picante Chapín,Familiar
+2497,Caramelo,Familiar
+2498,Salado Tradicional,Familiar
+2499,Dulce,Familiar
+2500,Limón,Para Compartir Entre 2 Personas
